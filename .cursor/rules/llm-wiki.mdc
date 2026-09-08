@@ -1,0 +1,13 @@
+---
+description: WKU ROTC LLM Wiki — read AGENTS.md and wiki/index.md before answering or ingesting
+alwaysApply: true
+---
+
+This repo is a Karpathy-style LLM wiki. Follow `AGENTS.md`.
+
+- `raw/` is immutable after capture. Never rewrite an existing raw file.
+- `wiki/` is agent-owned compiled knowledge. Update it on ingest; query it first.
+- Start answers from `wiki/index.md`, then drill into linked pages.
+- LTC David Schnaak is PMS and department chair. Catalog listings of LTC Anthony Struzik are superseded. See `wiki/analyses/source-conflicts.md`.
+- Catalog wins for degree requirements and official course titles/hours. Human corrections and dated WKU News win for current people and operational facts.
+- Record contradictions instead of blending them. Append `wiki/log.md` on ingest, query-file, or lint.

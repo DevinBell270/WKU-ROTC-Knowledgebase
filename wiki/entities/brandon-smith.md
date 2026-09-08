@@ -1,0 +1,30 @@
+---
+title: Brandon Smith
+created: 2026-09-08
+updated: 2026-09-08
+type: entity
+tags: [cadre, recruiting]
+sources:
+  - raw/wku-rotc/contact.md
+  - raw/wku-rotc/scholarships.md
+  - raw/catalog-2026-2027/department.md
+confidence: high
+contested: false
+canonical_for: recruiting / scholarship / SMP / enrollment contact
+---
+
+# Mr. Brandon Smith
+
+Recruiting Operations Officer for WKU Army ROTC.
+
+**Phone:** 270-745-6054
+**Email:** brandon.smith@wku.edu (contact page). Catalog SMP blurb and the scholarships page also use army.rotc@wku.edu.
+
+## Route these questions here
+
+- [[scholarships]]
+- Contracting and enrollment
+- [[simultaneous-membership-program]]
+- Age, medical, or citizenship edge cases that affect contracting
+
+Do not treat this number as the PMS interview line; that is [[emma-brittenham]].
