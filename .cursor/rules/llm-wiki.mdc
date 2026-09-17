@@ -11,3 +11,4 @@ This repo is a Karpathy-style LLM wiki. Follow `AGENTS.md`.
 - LTC David Schnaak is PMS and department chair. Catalog listings of LTC Anthony Struzik are superseded. See `wiki/analyses/source-conflicts.md`.
 - Catalog wins for degree requirements and official course titles/hours. Human corrections and dated WKU News win for current people and operational facts.
 - Record contradictions instead of blending them. Append `wiki/log.md` on ingest, query-file, or lint.
+- ROTC LLC location: Housing ROTC LLC page (Zacharias, subject to change). Fall 2025 was Meredith.

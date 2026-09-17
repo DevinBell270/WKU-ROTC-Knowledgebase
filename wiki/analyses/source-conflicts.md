@@ -1,7 +1,7 @@
 ---
 title: Source conflicts
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: analysis
 tags: [conflicts, catalog, department-site]
 sources:
@@ -15,6 +15,8 @@ sources:
   - raw/wku-rotc/veteran.md
   - raw/wku-rotc/rotc-program.md
   - raw/news/2026-05-07-commencement.md
+  - raw/housing/rotc-llc.md
+  - raw/housing/fall2025-assignments.md
 confidence: high
 contested: true
 canonical_for: inventory of live contradictions
@@ -101,3 +103,19 @@ Catalog: Diddle Arena Office **1512**. Most department pages: Diddle Arena **202
 Catalog: $420/month; four-year awards *may* get university room and board (budget dependent); two-/three-year *may* get room. Department scholarships page: books $1,200/year; room + 10 meals/week if GPA ≥ 3.0 and attendance at class/lab/PT; “over $80,000” total.
 
 **Handling:** Tuition/fees + $420 stipend are the common core. Room/meal/book figures come from the department page and are budget- and GPA-dependent.
+
+## ROTC LLC building
+
+| Source | Claim |
+| --- | --- |
+| Housing ROTC LLC page (modified 2026-07-22) | Zacharias Hall, *subject to change* |
+| Fall 2025 housing assignments (modified 2025-11-24) | ROTC LLC in Meredith Hall |
+| 2026–2027 halls index | Meredith and Zacharias both house LLCs; no per-LLC map |
+
+**Handling:** For the current year, use the ROTC LLC page (Zacharias) and say it can move. Fall 2025 Meredith is historical, not a live competing current claim.
+
+## MIL 101/102 as “general education”
+
+Housing ROTC LLC page headings the linked courses “Satisfies major and general education requirements.” Catalog BS 733 four-year plan lists MIL 101/102 as major courses and Colonnade requirements on separate rows. No ingested Colonnade list includes MIL 101/102.
+
+**Handling:** They count toward the [[basic-course]], [[military-leadership-bs-733]], and [[military-science-minor-420]]. Do not advise them as Colonnade/gen-ed credit.

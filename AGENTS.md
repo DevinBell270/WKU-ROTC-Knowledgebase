@@ -23,15 +23,17 @@ When sources disagree, do not blend them into one unattributed fact. Record both
 1. **Human corrections in `raw/corrections/`** — program-staff overrides. Highest authority for *current operational facts* (who the PMS is, office practices, local policy).
 2. **Dated official WKU communications** — WKU News, College of Education and Behavioral Sciences announcements, commencement programs. High authority for people, events, and recent facts.
 3. **Undergraduate Catalog (current year in `raw/catalog-*/`)** — canonical for *degree requirements, course numbers, official catalog titles and hours, admission language as published*. Academic advising answers should lead with the catalog, then note department-site differences.
-4. **Department website (`raw/wku-rotc/`)** — canonical for recruiting copy, contact routing, scholarships as marketed, Living Learning Community, nursing pathway, history narrative. Not canonical when it conflicts with the catalog on course titles, hours, or program requirements.
-5. **Cadet handbook and other department PDFs** — useful for battalion practice; treat as potentially stale until a human confirms.
-6. **Third-party news** — corroboration only (e.g. *College Heights Herald*).
+4. **Department website (`raw/wku-rotc/`)** — canonical for recruiting copy, contact routing, scholarships as marketed, nursing pathway, history narrative. Not canonical when it conflicts with the catalog on course titles, hours, or program requirements. LLC *purpose* copy on the homepage matches Housing; do not use it for building, application, or linked courses.
+5. **Housing & Residence Life LLC pages (`raw/housing/`)** — canonical for Living Learning Community application mechanics, published location, linked courses, and campus-wide LLC rules.
+6. **Cadet handbook and other department PDFs** — useful for battalion practice; treat as potentially stale until a human confirms.
+7. **Third-party news** — corroboration only (e.g. *College Heights Herald*).
 
 Never silently prefer a stale catalog person/title over a human correction.
 
 ### Current standing overrides
 
 - **PMS / department chair:** Lieutenant Colonel David Schnaak. The 2026–2027 catalog still lists LTC Anthony Struzik. Treat Struzik as superseded. See `[[ltc-david-schnaak]]` and `[[source-conflicts]]`.
+- **ROTC LLC location:** Housing ROTC LLC page (Zacharias Hall, subject to change). Fall 2025 assignments listed Meredith. See `[[living-learning-community]]`.
 
 ## Query workflow
 
@@ -113,6 +115,7 @@ raw/                      immutable captures
   catalog-YYYY-YYYY/      undergraduate catalog snapshots
   wku-rotc/               department website snapshots
   news/                   WKU News and other dated official/third-party
+  housing/                Housing & Residence Life LLC and hall snapshots
 wiki/
   index.md                catalog of every wiki page
   log.md                  append-only activity log
@@ -140,7 +143,7 @@ Append-only. Each entry starts with:
 
 ## Out of scope until sourced
 
-Do not fabricate: current cadet chain of command, full cadre roster, current scholarship deadlines, contract language, medical standards details, or branch assignment results. Capture a source first.
+Do not fabricate: current cadet chain of command, full cadre roster, current scholarship deadlines, next-cycle LLC decision dates, contract language, medical standards details, or branch assignment results. Capture a source first.
 
 ## Tools
 

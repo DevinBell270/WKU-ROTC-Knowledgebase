@@ -13,3 +13,9 @@ Ingested undergraduate catalog department / BS 733 / minor 420 / MIL courses; de
 Created overview, index, source-conflicts, entities, programs, concepts, mil-catalog, history, and source summaries.
 
 Standing override: catalog listing of LTC Anthony Struzik is stale.
+
+## [2026-09-17] ingest | Housing LLC pages (ROTC + campus-wide)
+
+Captured WKU Housing & Residence Life LLC overview, FAQ, apply excerpt, ROTC LLC page, Zacharias Hall, halls index, and Fall 2025 assignment locations. Compiled [[living-learning-communities]], expanded [[living-learning-community]], added [[zacharias-hall]], [[housing-llc]], and filed query [[rotc-llc]].
+
+Current ROTC LLC building on Housing: Zacharias Hall (subject to change). Fall 2025 page had ROTC in Meredith. Housing “gen ed” heading on MIL 101/102 is unverified vs catalog Colonnade. February 2026 LLC dates on the capture are elapsed.

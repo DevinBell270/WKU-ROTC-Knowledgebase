@@ -1,7 +1,7 @@
 ---
 title: Wiki index
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: overview
 tags: [index]
 sources: []
@@ -29,6 +29,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[brandon-smith]] — recruiting / scholarships / SMP
 - [[emma-brittenham]] — major coordinator / PMS interviews
 - [[chase-attwood]] — APMS (Herald 2025; spelling uncertain)
+- [[zacharias-hall]] — suite-style First Year Village hall; current ROTC LLC building (subject to change)
 
 ## Programs
 
@@ -47,7 +48,8 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[simultaneous-membership-program]] — Guard/Reserve + advanced course
 - [[veterans-and-prior-service]] — placement credit and age rules
 - [[army-nurse-corps]] — nursing + NSTP
-- [[living-learning-community]] — first-year housing community
+- [[living-learning-communities]] — campus-wide LLC program (apply, cost, one-LLC rule)
+- [[living-learning-community]] — Army ROTC first-year LLC (MIL 101/102; Zacharias)
 
 ## Courses and history
 
@@ -60,7 +62,12 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[catalog-2026-2027]] — registrar snapshot
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
+- [[housing-llc]] — Housing & Residence Life LLC / Zacharias / Fall 2025 assignments
+
+## Filed queries
+
+- [[rotc-llc]] — what the ROTC LLC is vs campus LLCs generally
 
 ## Open gaps (not yet pages)
 
-Cadre roster, cadet handbook (partially discovered), JROTC partners as entities, officer branches, Hall of Fame, current scholarship deadlines, MIL 209 official description, post-2005 history, LLC building/application.
+Cadre roster, cadet handbook (partially discovered), JROTC partners as entities, officer branches, Hall of Fame, current scholarship deadlines, MIL 209 official description, post-2005 history, next-cycle LLC decision dates, how LLC placement interacts with scholarship room/meal extras.

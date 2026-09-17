@@ -1,7 +1,7 @@
 ---
 title: Overview — WKU Military Science and Leadership
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: overview
 tags: [rotc, wku, synthesis]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/catalog-2026-2027/military-leadership-bs.md
   - raw/catalog-2026-2027/military-science-minor.md
   - raw/wku-rotc/homepage.md
+  - raw/housing/rotc-llc.md
 confidence: high
 contested: true
 canonical_for: program-level synthesis
@@ -26,7 +27,7 @@ The department offers two academic credentials:
 
 ROTC itself is a commissioning pathway, not a degree. Students take Military Science (MIL) courses, labs, and physical training; contract and then complete the [[advanced-course|advanced course]] plus [[advanced-camp|Advanced Camp]] to become eligible for a commission as a Second Lieutenant. The [[basic-course|basic course]] creates no military obligation.
 
-Money, recruiting, and contracting route through [[brandon-smith|Mr. Brandon Smith]]. The Military Leadership major and PMS interviews route through [[emma-brittenham|Ms. Emma Brittenham]].
+Money, recruiting, and contracting route through [[brandon-smith|Mr. Brandon Smith]]. The Military Leadership major and PMS interviews route through [[emma-brittenham|Ms. Emma Brittenham]]. First-year cadets may apply to the Army ROTC [[living-learning-community|Living Learning Community]] through Housing (not cadre); campus LLC rules are on [[living-learning-communities]].
 
 ## What is settled
 
@@ -38,7 +39,7 @@ Money, recruiting, and contracting route through [[brandon-smith|Mr. Brandon Smi
 
 ## What is contested
 
-See [[source-conflicts]]. The important live conflicts are: catalog still names the wrong chair; department site uses old MIL titles; MIL 209 is in the major but missing from the MIL course list; age-to-commission rules differ by page; office suite is listed as both 1512 and 2027.
+See [[source-conflicts]]. The important live conflicts are: catalog still names the wrong chair; department site uses old MIL titles; MIL 209 is in the major but missing from the MIL course list; age-to-commission rules differ by page; office suite is listed as both 1512 and 2027; ROTC LLC hall is listed as Zacharias now and was Meredith in Fall 2025; Housing labels MIL 101/102 as gen-ed without catalog Colonnade support.
 
 ## How to use this wiki
 

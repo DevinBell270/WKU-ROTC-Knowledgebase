@@ -1,7 +1,7 @@
 ---
 title: Contact and location
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: entity
 tags: [contact, location]
 sources:
@@ -9,6 +9,7 @@ sources:
   - raw/wku-rotc/homepage.md
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/rotc-program.md
+  - raw/housing/llc-overview.md
 confidence: high
 contested: true
 canonical_for: public contact routing
@@ -24,6 +25,7 @@ canonical_for: public contact routing
 | [[military-leadership-bs-733\|Military Leadership major]], PMS interviews | [[emma-brittenham]] | 270-745-4293 | emma.brittenham@wku.edu |
 | General department | main desk | 270-745-4293 | army.rotc@wku.edu |
 | SMS only (no voice) | department text line | 270-721-8539 | — |
+| [[living-learning-communities\|Living Learning Community]] application / waitlist | WKU Housing LLC office | 270-745-3577 | llc@wku.edu |
 
 Catalog fax: 270-745-6050.
 

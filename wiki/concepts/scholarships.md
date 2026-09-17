@@ -1,7 +1,7 @@
 ---
 title: Scholarships
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: concept
 tags: [money, scholarships]
 sources:
@@ -30,6 +30,8 @@ Army ROTC scholarships at WKU are for students who will commission. Applicants n
 - Marketing line: total covers over $80,000
 
 Catalog is softer on housing: four-year recipients *may* get university room and board (budget dependent); two-/three-year *may* get room.
+
+These extras are **not** the [[living-learning-community|ROTC LLC]]. The LLC is a first-year Housing community; no ingested source explains stacking LLC placement with scholarship room/meal incentives.
 
 ## Department minimums to *apply*
 

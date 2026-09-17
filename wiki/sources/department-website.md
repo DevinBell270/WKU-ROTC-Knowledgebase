@@ -1,7 +1,7 @@
 ---
 title: Source — wku.edu/rotc
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: source-summary
 tags: [source, website]
 sources:
@@ -23,6 +23,6 @@ canonical_for: ""
 
 # Source summary: Department website
 
-Public recruiting and advising site. Strong on [[contact-and-location]], [[scholarships]] extras, [[army-nurse-corps]], [[veterans-and-prior-service]], and [[wku-rotc-history]].
+Public recruiting and advising site. Strong on [[contact-and-location]], [[scholarships]] extras, [[army-nurse-corps]], [[veterans-and-prior-service]], and [[wku-rotc-history]]. Homepage LLC paragraph is purpose copy only; operational LLC facts are on [[housing-llc]].
 
 Weaker as an academic source: old MIL titles, incomplete vs catalog elective lists, MIL 209 without a catalog course record, mixed camp lengths and pay. `cadre.php` did not yield a roster. Officer-branches page had no usable body.

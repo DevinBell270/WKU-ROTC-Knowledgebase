@@ -1,7 +1,7 @@
 ---
 title: Department of Military Science and Leadership
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-17
 type: entity
 tags: [department, cebs, rotc]
 sources:
@@ -9,6 +9,7 @@ sources:
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/homepage.md
   - raw/wku-rotc/contact.md
+  - raw/housing/rotc-llc.md
 confidence: high
 contested: true
 canonical_for: department identity and offerings
@@ -25,7 +26,7 @@ Academic home of WKU Army ROTC, in the College of Education and Behavioral Scien
 **Fax (catalog):** 270-745-6050
 **Location:** Diddle Arena (see [[contact-and-location]] — 2027 vs 1512)
 
-The military science program is voluntary and open to men and women. [[basic-course|Basic course]] participation does not create a military obligation.
+The military science program is voluntary and open to men and women. [[basic-course|Basic course]] participation does not create a military obligation. First-year students may apply for the Army ROTC [[living-learning-community]] through Housing.
 
 ## Academic programs
 
