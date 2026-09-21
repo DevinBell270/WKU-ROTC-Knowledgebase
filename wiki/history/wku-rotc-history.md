@@ -7,6 +7,7 @@ tags: [history]
 sources:
   - raw/wku-rotc/history.md
   - raw/news/2025-11-11-veterans-day.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
   - raw/social/2026-09-19-yates-memorial-run-ig.md
 confidence: medium
 contested: false
@@ -31,4 +32,4 @@ Narrative from the department history page (ends **2005**). Herald 2025 repeats 
 - **2003–04:** Guthrie Tower Veterans Day ceremony; Murray State partnership / contracting.
 - **2005:** CPT Charles F. Thomas IV Room of Honor (MS100 classroom).
 
-**Gap:** no ingested narrative from 2005–present (when the LLC started, current PMS succession, JROTC partner list beyond homepage nav). The LLC itself is now documented from Housing 2025–2026 pages: [[living-learning-community]]. Post-2005 social-proof only: [[eric-d-yates]] (KIA 2010; 16th annual memorial run 2026).
+**Gap:** no ingested narrative from 2005–present (when the LLC started, current PMS succession, JROTC partner list beyond homepage nav). The LLC itself is now documented from Housing 2025–2026 pages: [[living-learning-community]]. Post-2005 social-proof: [[eric-d-yates]] (KIA 2010; 16th annual memorial run 2026). Recruiting Prezi uses “Est. 1918”; do not replace the 1919 origin above — [[source-conflicts]].

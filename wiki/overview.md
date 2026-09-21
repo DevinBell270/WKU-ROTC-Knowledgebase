@@ -1,7 +1,7 @@
 ---
 title: Overview — WKU Military Science and Leadership
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: overview
 tags: [rotc, wku, synthesis]
 sources:
@@ -11,6 +11,7 @@ sources:
   - raw/catalog-2026-2027/military-science-minor.md
   - raw/wku-rotc/homepage.md
   - raw/housing/rotc-llc.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: program-level synthesis
@@ -39,7 +40,7 @@ Money, recruiting, and contracting route through [[brandon-smith|Mr. Brandon Smi
 
 ## What is contested
 
-See [[source-conflicts]]. The important live conflicts are: catalog still names the wrong chair; department site uses old MIL titles; MIL 209 is in the major but missing from the MIL course list; age-to-commission rules differ by page; office suite is listed as both 1512 and 2027; ROTC LLC hall is listed as Zacharias now and was Meredith in Fall 2025; Housing labels MIL 101/102 as gen-ed without catalog Colonnade support.
+See [[source-conflicts]]. The important live conflicts are: catalog still names the wrong chair; department site uses old MIL titles; MIL 209 is in the major but missing from the MIL course list; age-to-commission rules differ by page; office suite is listed as both 1512 and 2027; ROTC LLC hall is listed as Zacharias now and was Meredith in Fall 2025; Housing labels MIL 101/102 as gen-ed without catalog Colonnade support; [[brandon-smith]] contact is 270-745-6054 on department pages and 270-745-1765 on the recruiting Prezi; Prezi “WKU Bonus” / Over $9,900 / National Scholarship room-and-board and SMP $1,698 stack overstate vs catalog and the department scholarships page.
 
 ## How to use this wiki
 

@@ -1,14 +1,15 @@
 ---
 title: Simultaneous Membership Program
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-21
 type: concept
 tags: [smp, guard, reserve]
 sources:
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/veteran.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
-contested: false
+contested: true
 canonical_for: published SMP description
 ---
 
@@ -18,4 +19,20 @@ Selected Army National Guard and Army Reserve members enroll in the [[advanced-c
 
 Veteran page: paid at least **E-5** for Guard/Reserve duty **plus** the ROTC advanced-course stipend; perform duties commensurate with a second lieutenant; requires a unit vacancy. After commissioning, remain with the unit or apply for active duty. For Kentucky SMP, contact the Kentucky National Guard.
 
-**WKU contact:** [[brandon-smith]], 270-745-6054, Brandon.Smith@wku.edu.
+**WKU contact:** [[brandon-smith]], 270-745-6054, Brandon.Smith@wku.edu (catalog / contact page). Prezi recruiting CTA is a different number; see [[source-conflicts]].
+
+## Recruiting Prezi monthly stack (not catalog authority)
+
+[[brandon-smith]]’s Prezi (updated 11 September 2026): students are simultaneously in the National Guard/Army Reserve and in ROTC; “you can still become an Officer on Active Duty.”
+
+Listed lines:
+
+- 100% Tuition & Fees (KY National Guard)
+- PLUS:
+  - $466 MGIB (must attend AIT)
+  - $350 SMP Kicker (must attend AIT)
+  - $462 Drill Pay (E5)
+  - $420 ROTC stipend
+- Prezi total: **$1,698!** per month
+
+Do not quote that total as a guaranteed check. MGIB and SMP Kicker are AIT-gated on the slide. Catalog and veteran page do not publish this arithmetic. See [[source-conflicts]].

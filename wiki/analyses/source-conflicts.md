@@ -1,9 +1,9 @@
 ---
 title: Source conflicts
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: analysis
-tags: [conflicts, catalog, department-site]
+tags: [conflicts, catalog, department-site, recruiting]
 sources:
   - raw/corrections/2026-09-08-pms-department-chair.md
   - raw/catalog-2026-2027/department.md
@@ -17,6 +17,7 @@ sources:
   - raw/news/2026-05-07-commencement.md
   - raw/housing/rotc-llc.md
   - raw/housing/fall2025-assignments.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: inventory of live contradictions
@@ -102,7 +103,7 @@ Catalog: Diddle Arena Office **1512**. Most department pages: Diddle Arena **202
 
 Catalog: $420/month; four-year awards *may* get university room and board (budget dependent); two-/three-year *may* get room. Department scholarships page: books $1,200/year; room + 10 meals/week if GPA ≥ 3.0 and attendance at class/lab/PT; “over $80,000” total.
 
-**Handling:** Tuition/fees + $420 stipend are the common core. Room/meal/book figures come from the department page and are budget- and GPA-dependent.
+**Handling:** Tuition/fees + $420 stipend are the common core. Room/meal/book figures come from the department page and are budget- and GPA-dependent. The recruiting Prezi “WKU Bonus” / **Over $9,900** / “every National Scholarship winner receives room and board” claims are a further overstatement vs both; see the dedicated rows below.
 
 ## ROTC LLC building
 
@@ -119,3 +120,43 @@ Catalog: $420/month; four-year awards *may* get university room and board (budge
 Housing ROTC LLC page headings the linked courses “Satisfies major and general education requirements.” Catalog BS 733 four-year plan lists MIL 101/102 as major courses and Colonnade requirements on separate rows. No ingested Colonnade list includes MIL 101/102.
 
 **Handling:** They count toward the [[basic-course]], [[military-leadership-bs-733]], and [[military-science-minor-420]]. Do not advise them as Colonnade/gen-ed credit.
+
+## Brandon Smith phones and emails
+
+| Source | Phone | Email |
+| --- | --- | --- |
+| Department contact page | 270-745-6054 | brandon.smith@wku.edu |
+| Department scholarships page | 270-745-6054 | army.rotc@wku.edu |
+| Catalog SMP / department SMP blurb | 270-745-6054 | Brandon.Smith@wku.edu |
+| Recruiting Prezi CTA (“Text or Call”), updated 11 Sep 2026 | 270-745-1765 | army.rotc@wku.edu |
+
+**Handling:** Keep all of them. Contact-page 270-745-6054 + brandon.smith@wku.edu remains the published scholarships/contracting/SMP routing. Prezi 270-745-1765 + army.rotc@wku.edu is a recruiting call-to-action on that deck. army.rotc@wku.edu is also the department general inbox. Do not delete one number because another source lists a different one. See [[brandon-smith]] and [[contact-and-location]].
+
+## WKU Bonus / Over $9,900 / National Scholarship room and board
+
+| Source | Claim |
+| --- | --- |
+| Catalog Financial Assistance | Tuition, textbooks, supplies, lab fees, $420/month. Four-year awards *may* get university room and board (budget dependent). Two-/three-year *may* get room. |
+| Department scholarships page | 100% tuition and fees; $1,200 books/year; $420/month. Room + **10 meals/week** if GPA ≥ 3.0 and attendance at class, lab, and PT. Marketing total **over $80,000**. |
+| Recruiting Prezi “WKU Bonus” | Every National Scholarship winner receives **room and board starting freshman year**, continued **all 4 years** if GPA and physical fitness requirements are met. Non-winners may still get room and meal benefits based on GPA, physical fitness, and **involvement**. Marketing figure **Over $9,900!** with **no breakdown** in the capture. Also lists 100% tuition & fees, $420/month, $1,200 books. |
+
+**Handling:** Catalog and the department scholarships page remain the advising sources. Prezi **overstates** housing: “every” winner / “room and board” / “all 4 years” / freshman start vs catalog *may* (and 2-/3-year *room* only) vs department **GPA 3.0 + attendance** and **10 meals/week** (not unlimited board). **Over $9,900** and **over $80,000** are different marketing totals; neither has a captured line-item table. $420 stipend and $1,200 books agree between Prezi and the department page. See [[scholarships]].
+
+## SMP $1,698 monthly stack
+
+| Source | Claim |
+| --- | --- |
+| Catalog SMP | Structure only (Guard/Reserve + advanced course → commission). Contact [[brandon-smith]]. No pay table. |
+| Veteran page | Paid at least E-5 for unit duty **plus** ROTC advanced-course stipend. No dollar figures. |
+| Recruiting Prezi | 100% tuition & fees (KY National Guard) plus monthly: $466 MGIB (**must attend AIT**), $350 SMP Kicker (**must attend AIT**), $462 drill pay (E5), $420 ROTC stipend. Total **$1,698!** per month. |
+
+**Handling:** Do not quote $1,698 as a guaranteed monthly payment. Repeat the AIT gates if the stack is mentioned. KYNG “100% Tuition & Fees” is Prezi-only in this wiki. Veteran page supports E-5 + stipend, not the dollar addends. See [[simultaneous-membership-program]].
+
+## Program origin year (recruiting vs history)
+
+| Source | Claim |
+| --- | --- |
+| Department history page / Herald 2025 | Permanent ROTC 28 January **1919** (SATC in WWI) |
+| Recruiting Prezi | “Est. **1918**” |
+
+**Handling:** Use the history narrative for origin. Treat 1918 as Prezi tagline copy. Do not rewrite [[wku-rotc-history]] to 1918.

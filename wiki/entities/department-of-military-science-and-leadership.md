@@ -1,7 +1,7 @@
 ---
 title: Department of Military Science and Leadership
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: entity
 tags: [department, cebs, rotc]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/wku-rotc/homepage.md
   - raw/wku-rotc/contact.md
   - raw/housing/rotc-llc.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: department identity and offerings
@@ -20,6 +21,8 @@ canonical_for: department identity and offerings
 Academic home of WKU Army ROTC, in the College of Education and Behavioral Sciences. The Professor of Military Science is a career Army lieutenant colonel who also serves as department chair: [[ltc-david-schnaak]]. Cadre of commissioned and noncommissioned officers assist the PMS.
 
 **Public site:** https://www.wku.edu/rotc/
+**Facebook (Prezi):** https://www.facebook.com/WKUROTC
+**Instagram (Prezi):** https://www.instagram.com/wkuarmyrotc
 **Catalog:** https://catalog.wku.edu/undergraduate/education-behavioral-sciences/military-science-leadership/
 **Email:** army.rotc@wku.edu
 **Main phone:** 270-745-4293
@@ -38,7 +41,7 @@ The major is interdisciplinary: MIL sequence plus nine elective hours from polit
 
 ## Cadet organization
 
-The student unit is the [[hilltopper-battalion]]. A public cadre directory URL exists but did not return a roster in the 2026-09-08 capture. Known named cadre besides the PMS: [[brandon-smith]] (Recruiting Operations Officer), [[emma-brittenham]] (program coordinator / major advising), [[chase-attwood]] (Assistant Professor of Military Science).
+The student unit is the [[hilltopper-battalion]]. A public cadre directory URL exists but did not return a roster in the 2026-09-08 capture. Known named cadre besides the PMS: [[brandon-smith]] (Recruiting Operations Officer; recruiting Prezi updated 11 September 2026), [[emma-brittenham]] (program coordinator / major advising), [[chase-attwood]] (Assistant Professor of Military Science).
 
 ## Source notes
 

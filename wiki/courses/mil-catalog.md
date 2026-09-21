@@ -1,12 +1,13 @@
 ---
 title: MIL course catalog
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-21
 type: course
 tags: [mil, catalog]
 sources:
   - raw/catalog-2026-2027/mil-courses.md
   - raw/wku-rotc/courses.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: official catalog titles, hours, and prerequisites
@@ -20,7 +21,7 @@ Official titles, hours, and prerequisites from the **2026–2027** undergraduate
 
 | Nbr | Catalog title | Hrs | Notes |
 | --- | --- | --- | --- |
-| 101 | Introduction to the Army | 2 | Dept: Mountaineering & Leadership. Army LRM / what ROTC is. Offered recent springs and falls. |
+| 101 | Introduction to the Army | 2 | Dept: Mountaineering & Leadership. Army LRM / what ROTC is. Offered recent springs and falls. Recruiting Prezi: time management class and rappelling; still 2 hours. |
 | 102 | Foundations of Army Leadership | 2 | Dept: Developmental Skills. Life skills, first aid, survival, group interaction. Spring. |
 | 201 | Army Leadership and Ethics | 3 | Prereq 101+102; PMS permission may be required. Dept: Basic Leadership. Fall. |
 | 202 | Team Building and Army Doctrine | 3 | Prereq 101+102+201; PMS permission may be required. Spring. |

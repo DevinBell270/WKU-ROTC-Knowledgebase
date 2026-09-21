@@ -1,7 +1,7 @@
 ---
 title: Contact and location
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: entity
 tags: [contact, location]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/rotc-program.md
   - raw/housing/llc-overview.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: public contact routing
@@ -22,10 +23,13 @@ canonical_for: public contact routing
 | Need | Person | Phone | Email |
 | --- | --- | --- | --- |
 | Scholarships, contracting, enrollment, [[simultaneous-membership-program\|SMP]] | [[brandon-smith]] | 270-745-6054 | brandon.smith@wku.edu |
+| Recruiting Prezi CTA (“Text or Call”) | [[brandon-smith]] | 270-745-1765 | army.rotc@wku.edu |
 | [[military-leadership-bs-733\|Military Leadership major]], PMS interviews | [[emma-brittenham]] | 270-745-4293 | emma.brittenham@wku.edu |
 | General department | main desk | 270-745-4293 | army.rotc@wku.edu |
 | SMS only (no voice) | department text line | 270-721-8539 | — |
 | [[living-learning-communities\|Living Learning Community]] application / waitlist | WKU Housing LLC office | 270-745-3577 | llc@wku.edu |
+
+Keep 270-745-6054 **and** 270-745-1765. Do not drop brandon.smith@wku.edu because the Prezi uses army.rotc@wku.edu. See [[source-conflicts]].
 
 Catalog fax: 270-745-6050.
 
@@ -38,4 +42,8 @@ Diddle Arena (Academic-Athletic Building #1)
 
 **Suite number is contested.** Current department pages: **2027**. Catalog: **Office 1512**. One older program page lists both. Use 2027 in public-facing answers; mention 1512 if someone is following the catalog.
 
-Website: https://www.wku.edu/rotc/
+## Channels (department + Prezi)
+
+- Website: https://www.wku.edu/rotc/
+- Facebook: https://www.facebook.com/WKUROTC
+- Instagram: https://www.instagram.com/wkuarmyrotc

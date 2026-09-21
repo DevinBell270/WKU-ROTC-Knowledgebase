@@ -17,6 +17,6 @@ The 2026–2027 undergraduate catalog still lists LTC Anthony Struzik as departm
 ## Layout
 
 ```
-raw/     snapshots of catalog, department site, news, housing, social, and human corrections
+raw/     snapshots of catalog, department site, news, housing, social, recruiting decks, and human corrections
 wiki/    compiled entity, program, concept, and analysis pages
 ```
