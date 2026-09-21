@@ -19,3 +19,10 @@ Standing override: catalog listing of LTC Anthony Struzik is stale.
 Captured WKU Housing & Residence Life LLC overview, FAQ, apply excerpt, ROTC LLC page, Zacharias Hall, halls index, and Fall 2025 assignment locations. Compiled [[living-learning-communities]], expanded [[living-learning-community]], added [[zacharias-hall]], [[housing-llc]], and filed query [[rotc-llc]].
 
 Current ROTC LLC building on Housing: Zacharias Hall (subject to change). Fall 2025 page had ROTC in Meredith. Housing “gen ed” heading on MIL 101/102 is unverified vs catalog Colonnade. February 2026 LLC dates on the capture are elapsed.
+
+## [2026-09-21] ingest | Brandon Smith Prezi (recruiting officer) WKU ROTC
+
+Captured Brandon Smith recruiting Prezi (https://prezi.com/p/iyhn9ozpdrgr/wku-rotc/; Prezi updated 11 Sep 2026) into `raw/recruiting/`. Compiled source summary, battalion/training/club pages, cadet stubs, [[eric-d-yates]], [[chinese-flagship-rotc]], and contact/scholarship/SMP updates.
+
+Kept department contact 270-745-6054 / brandon.smith@wku.edu **and** Prezi CTA 270-745-1765 / army.rotc@wku.edu. Did not invent Cadet Will’s last name. Prezi money claims (WKU Bonus / Over $9,900; National Scholarship room+board; SMP $1,698 with AIT gates) filed on [[source-conflicts]] — catalog and department scholarships page remain advising authority.
+

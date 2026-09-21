@@ -1,7 +1,7 @@
 ---
 title: Basic Course
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: concept
 tags: [curriculum]
 sources:
@@ -9,6 +9,7 @@ sources:
   - raw/catalog-2026-2027/mil-courses.md
   - raw/wku-rotc/courses.md
   - raw/housing/rotc-llc.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: basic-course structure
@@ -23,6 +24,8 @@ Four-semester block, normally MS I–II (freshman/sophomore). Emphasis: team and
 Complete MIL 101, 102, 201, and 202. Official titles: [[mil-catalog]]. The ROTC [[living-learning-community]] links MIL 101 (fall) and MIL 102 (spring) for first-year LLC students.
 
 Department site: two contact hours/week as a freshman, three as a sophomore.
+
+Recruiting Prezi MIL 101 slide: 2 credit hours; “basic leadership skills”; “a time management class and rappelling.” Catalog title remains *Introduction to the Army*. Department site still uses mountaineering/rappelling marketing. [[leadership-lab]] is a separate 2-hour weekly block on that deck — do not add it into these class contact hours.
 
 ## Equivalents
 

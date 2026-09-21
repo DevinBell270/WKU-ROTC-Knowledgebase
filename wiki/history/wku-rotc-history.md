@@ -1,12 +1,13 @@
 ---
 title: History of WKU ROTC
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: history
 tags: [history]
 sources:
   - raw/wku-rotc/history.md
   - raw/news/2025-11-11-veterans-day.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: medium
 contested: false
 canonical_for: department history narrative through 2005
@@ -30,4 +31,4 @@ Narrative from the department history page (ends **2005**). Herald 2025 repeats 
 - **2003–04:** Guthrie Tower Veterans Day ceremony; Murray State partnership / contracting.
 - **2005:** CPT Charles F. Thomas IV Room of Honor (MS100 classroom).
 
-**Gap:** no ingested narrative from 2005–present (when the LLC started, current PMS succession, JROTC partner list beyond homepage nav). The LLC itself is now documented from Housing 2025–2026 pages: [[living-learning-community]].
+**Gap:** no ingested narrative from 2005–present (when the LLC started, current PMS succession, JROTC partner list beyond homepage nav). The LLC itself is now documented from Housing 2025–2026 pages: [[living-learning-community]]. Recruiting Prezi uses “Est. 1918”; do not replace the 1919 origin above — [[source-conflicts]].

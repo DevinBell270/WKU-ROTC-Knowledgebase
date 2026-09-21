@@ -23,7 +23,7 @@ When sources disagree, do not blend them into one unattributed fact. Record both
 1. **Human corrections in `raw/corrections/`** — program-staff overrides. Highest authority for *current operational facts* (who the PMS is, office practices, local policy).
 2. **Dated official WKU communications** — WKU News, College of Education and Behavioral Sciences announcements, commencement programs. High authority for people, events, and recent facts.
 3. **Undergraduate Catalog (current year in `raw/catalog-*/`)** — canonical for *degree requirements, course numbers, official catalog titles and hours, admission language as published*. Academic advising answers should lead with the catalog, then note department-site differences.
-4. **Department website (`raw/wku-rotc/`)** — canonical for recruiting copy, contact routing, scholarships as marketed, nursing pathway, history narrative. Not canonical when it conflicts with the catalog on course titles, hours, or program requirements. LLC *purpose* copy on the homepage matches Housing; do not use it for building, application, or linked courses.
+4. **Department website (`raw/wku-rotc/`)** — canonical for recruiting copy, contact routing, scholarships as marketed, nursing pathway, history narrative. Not canonical when it conflicts with the catalog on course titles, hours, or program requirements. LLC *purpose* copy on the homepage matches Housing; do not use it for building, application, or linked courses. Recruiting decks in `raw/recruiting/` are the same class as department marketing copy (not catalog). Record contested dollar claims on `[[source-conflicts]]`.
 5. **Housing & Residence Life LLC pages (`raw/housing/`)** — canonical for Living Learning Community application mechanics, published location, linked courses, and campus-wide LLC rules.
 6. **Cadet handbook and other department PDFs** — useful for battalion practice; treat as potentially stale until a human confirms.
 7. **Third-party news** — corroboration only (e.g. *College Heights Herald*).
@@ -116,6 +116,7 @@ raw/                      immutable captures
   wku-rotc/               department website snapshots
   news/                   WKU News and other dated official/third-party
   housing/                Housing & Residence Life LLC and hall snapshots
+  recruiting/             recruiting presentations (e.g. Brandon Smith Prezi)
 wiki/
   index.md                catalog of every wiki page
   log.md                  append-only activity log

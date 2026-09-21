@@ -1,7 +1,7 @@
 ---
 title: Army ROTC Living Learning Community
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: concept
 tags: [housing, first-year, rotc]
 sources:
@@ -11,6 +11,7 @@ sources:
   - raw/housing/zacharias-hall.md
   - raw/housing/fall2025-assignments.md
   - raw/wku-rotc/homepage.md
+  - raw/recruiting/2026-09-11-brandon-smith-wku-rotc-prezi.md
 confidence: high
 contested: true
 canonical_for: ROTC LLC purpose, eligibility, and linked MIL 101/102
@@ -58,3 +59,7 @@ Halls index for 2026–2027: both Meredith and Zacharias house LLCs. Always use 
 First-year [[hilltopper-battalion]] cadets who want the community apply through Housing, not through cadre. Scholarship room/meal extras on [[scholarships]] are a separate, GPA-gated incentive. No ingested source explains how LLC placement and scholarship housing extras interact.
 
 Apply via the Housing LLC process on [[living-learning-communities]]. Housing contact: llc@wku.edu / (270) 745-3577. ROTC questions: [[brandon-smith]] / [[contact-and-location]].
+
+## Recruiting Prezi (purpose copy)
+
+[[brandon-smith]]’s Prezi (updated 11 September 2026) matches Housing on first-year students, camaraderie, MIL 101 fall / MIL 102 spring, LLC Fellow, and tailored programming. It does **not** name a hall. Keep Housing as canonical for building, application, and campus LLC rules.
