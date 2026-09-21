@@ -1,7 +1,7 @@
 ---
 title: Wiki index
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-21
 type: overview
 tags: [index]
 sources: []
@@ -23,7 +23,8 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Entities
 
 - [[department-of-military-science-and-leadership]] — CEBS department that hosts ROTC
-- [[hilltopper-battalion]] — cadet unit
+- [[hilltopper-battalion]] — cadet unit; Yates run, Ranger Team 9/11 climb, lab/FTX social-proof
+- [[eric-d-yates]] — 1LT Eric D. Yates; KIA 2010; 16th annual memorial run 2026-09-19 (caption facts)
 - [[ltc-david-schnaak]] — current PMS and chair (**canonical**)
 - [[ltc-anthony-struzik]] — superseded catalog chair listing
 - [[brandon-smith]] — recruiting / scholarships / SMP
@@ -63,6 +64,8 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
 - [[housing-llc]] — Housing & Residence Life LLC / Zacharias / Fall 2025 assignments
+- [[wku-rotc-facebook-social-2026-09]] — Sep 2026 FB keepers (9/11 stair climb + IMT lab)
+- [[wku-rotc-social-2026-09-21]] — Sep 2026 IG/FB pack (Yates Memorial Run + training)
 
 ## Filed queries
 
