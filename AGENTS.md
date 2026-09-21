@@ -116,6 +116,7 @@ raw/                      immutable captures
   wku-rotc/               department website snapshots
   news/                   WKU News and other dated official/third-party
   housing/                Housing & Residence Life LLC and hall snapshots
+  social/                 battalion Facebook/Instagram captures
 wiki/
   index.md                catalog of every wiki page
   log.md                  append-only activity log

@@ -19,3 +19,11 @@ Standing override: catalog listing of LTC Anthony Struzik is stale.
 Captured WKU Housing & Residence Life LLC overview, FAQ, apply excerpt, ROTC LLC page, Zacharias Hall, halls index, and Fall 2025 assignment locations. Compiled [[living-learning-communities]], expanded [[living-learning-community]], added [[zacharias-hall]], [[housing-llc]], and filed query [[rotc-llc]].
 
 Current ROTC LLC building on Housing: Zacharias Hall (subject to change). Fall 2025 page had ROTC in Meredith. Housing “gen ed” heading on MIL 101/102 is unverified vs catalog Colonnade. February 2026 LLC dates on the capture are elapsed.
+
+## [2026-09-17] ingest | Social Scout FB keepers (9/11 stair climb + IMT lab)
+
+Filed Facebook captures `raw/social/2026-09-12-911-stair-climb.md` and `raw/social/2026-09-11-imt-lab.md`. Compiled [[wku-rotc-facebook-social-2026-09]]. Linked Ranger Team 9/11 stadium stair climb and IMT lab on [[hilltopper-battalion]]. No named cadets in these posts. Captions verbatim; Instagram in that window was behind a login wall.
+
+## [2026-09-21] ingest | Social Scout pack (Yates Memorial Run + training)
+
+Filed seven keepers under `raw/social/` (Yates IG carousel, IG wrap, Chaney's IG, FB wrap page-URL-only, CDT Harlow learning the ropes, Almost FTX, Getting the basics down). Compiled [[wku-rotc-social-2026-09-21]] and [[eric-d-yates]] (caption facts only: 1LT Eric D. Yates; KIA September 17, 2010; 16th annual memorial run September 19, 2026). Updated [[hilltopper-battalion]] and [[index]]. Harlow is name-only (`CDT Harlow`); class/major/hometown not in source. Wilkinson and full Harlow cadet-card bios were not ingested.
