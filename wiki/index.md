@@ -23,13 +23,13 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Entities
 
 - [[department-of-military-science-and-leadership]] — CEBS department that hosts ROTC
-- [[hilltopper-battalion]] — cadet unit (Prezi: 100+ cadets, 40+ majors)
+- [[hilltopper-battalion]] — cadet unit; Prezi 100+ cadets / 40+ majors; Yates run, Ranger Team 9/11, lab/FTX social-proof
 - [[ltc-david-schnaak]] — current PMS and chair (**canonical**)
 - [[ltc-anthony-struzik]] — superseded catalog chair listing
 - [[brandon-smith]] — recruiting / scholarships / SMP; Prezi author
 - [[emma-brittenham]] — major coordinator / PMS interviews
 - [[chase-attwood]] — APMS (Herald 2025; spelling uncertain)
-- [[eric-d-yates]] — 2008 grad; KIA 17 Sep 2010; annual 5K
+- [[eric-d-yates]] — 1LT Eric D. Yates; 2008 grad; KIA 17 Sep 2010; 16th annual memorial run 2026-09-19
 - [[cdt-humble]] — junior; Bowling Green; Organizational leadership; KYNG
 - [[celia-johnston]] — Animal Science; KYARNG; Super Lab; Army veterinarian
 - [[cadet-will]] — EOHS; 3-year National Scholarship; last name not in source
@@ -75,6 +75,8 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
 - [[housing-llc]] — Housing & Residence Life LLC / Zacharias / Fall 2025 assignments
+- [[wku-rotc-facebook-social-2026-09]] — Sep 2026 FB keepers (9/11 stair climb + IMT lab)
+- [[wku-rotc-social-2026-09-21]] — Sep 2026 IG/FB pack (Yates Memorial Run + training)
 - [[brandon-smith-wku-rotc-prezi-2026-09]] — recruiting Prezi (updated 11 Sep 2026)
 
 ## Filed queries

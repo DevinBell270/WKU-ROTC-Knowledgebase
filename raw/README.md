@@ -9,6 +9,7 @@ Immutable captures. Agents may add new files. Agents must not rewrite existing f
 | `wku-rotc/` | Department website snapshots |
 | `news/` | Dated WKU News and third-party corroboration |
 | `housing/` | Housing & Residence Life LLC and hall snapshots |
+| `social/` | Battalion Facebook/Instagram captures |
 | `recruiting/` | Recruiting presentations and similar marketing decks |
 
 Each capture should record `source_url`, `captured`, and `title` at the top of the file.

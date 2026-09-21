@@ -20,9 +20,20 @@ Captured WKU Housing & Residence Life LLC overview, FAQ, apply excerpt, ROTC LLC
 
 Current ROTC LLC building on Housing: Zacharias Hall (subject to change). Fall 2025 page had ROTC in Meredith. Housing “gen ed” heading on MIL 101/102 is unverified vs catalog Colonnade. February 2026 LLC dates on the capture are elapsed.
 
+## [2026-09-17] ingest | Social Scout FB keepers (9/11 stair climb + IMT lab)
+
+Filed Facebook captures `raw/social/2026-09-12-911-stair-climb.md` and `raw/social/2026-09-11-imt-lab.md`. Compiled [[wku-rotc-facebook-social-2026-09]]. Linked Ranger Team 9/11 stadium stair climb and IMT lab on [[hilltopper-battalion]]. No named cadets in these posts. Captions verbatim; Instagram in that window was behind a login wall.
+
+## [2026-09-21] ingest | Social Scout pack (Yates Memorial Run + training)
+
+Filed seven keepers under `raw/social/` (Yates IG carousel, IG wrap, Chaney's IG, FB wrap page-URL-only, CDT Harlow learning the ropes, Almost FTX, Getting the basics down). Compiled [[wku-rotc-social-2026-09-21]] and [[eric-d-yates]] (caption facts only: 1LT Eric D. Yates; KIA September 17, 2010; 16th annual memorial run September 19, 2026). Updated [[hilltopper-battalion]] and [[index]]. Harlow is name-only (`CDT Harlow`); class/major/hometown not in source. Wilkinson and full Harlow cadet-card bios were not ingested.
+
 ## [2026-09-21] ingest | Brandon Smith Prezi (recruiting officer) WKU ROTC
 
 Captured Brandon Smith recruiting Prezi (https://prezi.com/p/iyhn9ozpdrgr/wku-rotc/; Prezi updated 11 Sep 2026) into `raw/recruiting/`. Compiled source summary, battalion/training/club pages, cadet stubs, [[eric-d-yates]], [[chinese-flagship-rotc]], and contact/scholarship/SMP updates.
 
 Kept department contact 270-745-6054 / brandon.smith@wku.edu **and** Prezi CTA 270-745-1765 / army.rotc@wku.edu. Did not invent Cadet Will’s last name. Prezi money claims (WKU Bonus / Over $9,900; National Scholarship room+board; SMP $1,698 with AIT gates) filed on [[source-conflicts]] — catalog and department scholarships page remain advising authority.
 
+## [2026-09-21] schema | Merge main into Prezi ingest (PR #2)
+
+Resolved GitHub merge conflicts with `main` (social ingest). Kept both `raw/social/` and `raw/recruiting/`. Combined overlapping [[eric-d-yates]], [[hilltopper-battalion]], [[wku-rotc-history]], and [[index]]. Rank spelling on Yates (social 1LT / 1Lt vs Prezi LT) recorded on the entity page, not averaged.

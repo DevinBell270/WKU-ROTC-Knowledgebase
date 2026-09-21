@@ -116,6 +116,7 @@ raw/                      immutable captures
   wku-rotc/               department website snapshots
   news/                   WKU News and other dated official/third-party
   housing/                Housing & Residence Life LLC and hall snapshots
+  social/                 battalion Facebook/Instagram captures
   recruiting/             recruiting presentations (e.g. Brandon Smith Prezi)
 wiki/
   index.md                catalog of every wiki page
