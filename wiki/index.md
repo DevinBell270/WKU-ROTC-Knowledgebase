@@ -40,7 +40,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 
 ## Concepts
 
-- [[army-rotc]] — what ROTC is at WKU
+- [[army-rotc]] — what ROTC is at WKU; JROTC not required to join
 - [[basic-course]] — four MIL classes over two years; no obligation unless scholarship
 - [[advanced-course]] — MS III–IV, contracting
 - [[basic-camp]] — MIL 210 / Fort Knox equivalent
@@ -62,6 +62,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 
 - [[human-correction-pms]] — 2026-09-08 chair override
 - [[human-correction-basic-course]] — 2026-09-24 four-class Basic Course (not two)
+- [[human-correction-jrotc]] — 2026-09-24 JROTC not required to join
 - [[catalog-2026-2027]] — registrar snapshot
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day

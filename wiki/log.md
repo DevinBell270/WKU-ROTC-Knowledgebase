@@ -43,3 +43,7 @@ Recorded as usage guidance on [[veterans-and-prior-service]] (Recruiting / web c
 ## [2026-09-24] ingest | Staff correction: Basic Course is four MIL classes
 
 Filed `raw/corrections/2026-09-24-basic-course-four-classes.md` (same 2026-09-24 meeting, relayed by Devin Bell). No-obligation window is the full two-year [[basic-course]]: MIL 101, MIL 102, MIL 201, MIL 202 (freshman and sophomore years). Recruiting copy that says students get only two classes before they have to commit is wrong. Catalog 2026–2027 already matches (four-semester basic course; no obligation by participating). Obligation still begins with the written [[advanced-course]] contract, or with a [[scholarships|scholarship]] that requires agreeing to commission (a scholarship student may contract earlier). Compiled [[human-correction-basic-course]], [[basic-course]], [[army-rotc]], [[overview]], [[scholarships]], [[brandon-smith]]. No [[source-conflicts]] row: no ingested page said “two classes.”
+
+## [2026-09-24] ingest | Staff correction: JROTC not required to join
+
+Filed `raw/corrections/2026-09-24-jrotc-not-required.md` (same 2026-09-24 meeting, relayed by Devin Bell). Junior ROTC in high school is not required to join Army ROTC at WKU. Compiled [[human-correction-jrotc]], [[basic-course]], [[army-rotc]]. No source says JROTC earns placement credit; published placement remains prior service, Guard, or Reserve only. No [[source-conflicts]] row.
