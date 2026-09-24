@@ -1,7 +1,7 @@
 ---
 title: Wiki index
 created: 2026-09-08
-updated: 2026-09-21
+updated: 2026-09-24
 type: overview
 tags: [index]
 sources: []
@@ -30,6 +30,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[brandon-smith]] — recruiting / scholarships / SMP
 - [[emma-brittenham]] — major coordinator / PMS interviews
 - [[chase-attwood]] — APMS (Herald 2025; spelling uncertain)
+- [[kent-johnson]] — Director, Military Student Services (not ROTC cadre)
 - [[zacharias-hall]] — suite-style First Year Village hall; current ROTC LLC building (subject to change)
 
 ## Programs
@@ -40,14 +41,14 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Concepts
 
 - [[army-rotc]] — what ROTC is at WKU
-- [[basic-course]] — MS I–II, no obligation
+- [[basic-course]] — four MIL classes over two years; no obligation unless scholarship
 - [[advanced-course]] — MS III–IV, contracting
 - [[basic-camp]] — MIL 210 / Fort Knox equivalent
 - [[advanced-camp]] — MIL 410 / commissioning gate
 - [[commissioning]] — 2LT gates
 - [[scholarships]] — tuition, stipend, room/meal extras
 - [[simultaneous-membership-program]] — Guard/Reserve + advanced course
-- [[veterans-and-prior-service]] — placement credit and age rules
+- [[veterans-and-prior-service]] — placement credit and age rules; MSS Military Friendly® Top Ten 2026–2027 (staff asked 2026-09-24 to highlight on ROTC site)
 - [[army-nurse-corps]] — nursing + NSTP
 - [[living-learning-communities]] — campus-wide LLC program (apply, cost, one-LLC rule)
 - [[living-learning-community]] — Army ROTC first-year LLC (MIL 101/102; Zacharias)
@@ -60,9 +61,11 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Source summaries
 
 - [[human-correction-pms]] — 2026-09-08 chair override
+- [[human-correction-basic-course]] — 2026-09-24 four-class Basic Course (not two)
 - [[catalog-2026-2027]] — registrar snapshot
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
+- [[wku-news-military-friendly-2026]] — Mar 2026 WKU News Military Friendly® Top Ten (MSS, not ROTC)
 - [[housing-llc]] — Housing & Residence Life LLC / Zacharias / Fall 2025 assignments
 - [[wku-rotc-facebook-social-2026-09]] — Sep 2026 FB keepers (9/11 stair climb + IMT lab)
 - [[wku-rotc-social-2026-09-21]] — Sep 2026 IG/FB pack (Yates Memorial Run + training)

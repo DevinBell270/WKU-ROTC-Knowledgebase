@@ -1,13 +1,15 @@
 ---
 title: Scholarships
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-24
 type: concept
 tags: [money, scholarships]
 sources:
   - raw/wku-rotc/scholarships.md
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/homepage.md
+  - raw/news/2026-03-27-military-friendly-top-ten.md
+  - raw/corrections/2026-09-24-basic-course-four-classes.md
 confidence: high
 contested: true
 canonical_for: published scholarship benefits; not current-year deadlines
@@ -16,6 +18,8 @@ canonical_for: published scholarship benefits; not current-year deadlines
 # Scholarships
 
 Army ROTC scholarships at WKU are for students who will commission. Applicants need not already be enrolled in ROTC. Deadlines: contact [[brandon-smith]] (catalog: high-school four-year applicants apply during senior year; no date captured).
+
+Accepting a scholarship requires agreeing to commission, so a scholarship student may contract **before** finishing the four-class [[basic-course]]. Non-scholarship students may take all four Basic Course classes (MIL 101, 102, 201, 202) before deciding whether to contract.
 
 ## Common core (catalog + department)
 
@@ -45,3 +49,5 @@ These extras are **not** the [[living-learning-community|ROTC LLC]]. The LLC is 
 GPA 2.5 here is **not** the same as the 2.0 advanced-course / major admission line.
 
 Scholarship age-at-commission on the veteran page (under 31 on 31 Dec of commissioning year, non-waiverable) is stricter than the catalog “not reach 30, may be waived” line. See [[source-conflicts]].
+
+WKU Military Student Services publishes a separate discounted tuition rate for Active Duty, Reserve, and National Guard members. That rate is not an Army ROTC scholarship or the $420 stipend. See [[veterans-and-prior-service]].
