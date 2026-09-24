@@ -1,13 +1,14 @@
 ---
 title: LTC David Schnaak
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-24
 type: entity
 tags: [pms, chair, cadre]
 sources:
   - raw/corrections/2026-09-08-pms-department-chair.md
   - raw/news/2026-05-07-commencement.md
   - raw/news/2025-11-11-veterans-day.md
+  - raw/corrections/2026-09-24-contact-routing.md
 confidence: high
 contested: false
 canonical_for: current PMS and department chair identity
@@ -29,4 +30,4 @@ Third-party LinkedIn (not ingested as a raw file) lists PMS at WKU from July 202
 
 ## Role
 
-The catalog defines the PMS as the career Army lieutenant colonel who provides academic instruction and supervision and chairs the department. PMS permission is required for advanced MIL courses and for some basic-course sequencing exceptions. PMS recommendation is an admission requirement for the [[military-leadership-bs-733|major]]. Interviews with the PMS are scheduled through [[emma-brittenham]].
+The catalog defines the PMS as the career Army lieutenant colonel who provides academic instruction and supervision and chairs the department. PMS permission is required for advanced MIL courses and for some basic-course sequencing exceptions. PMS recommendation is an admission requirement for the [[military-leadership-bs-733|major]]. Interviews with the PMS are scheduled through [[emma-brittenham]] (2026-09-24 staff confirmation, `raw/corrections/2026-09-24-contact-routing.md`; “Dave” in that statement is LTC Schnaak). No email for Schnaak is in the ingested sources.

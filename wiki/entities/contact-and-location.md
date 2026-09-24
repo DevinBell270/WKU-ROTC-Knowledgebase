@@ -12,6 +12,7 @@ sources:
   - raw/housing/llc-overview.md
   - raw/news/2026-03-27-military-friendly-top-ten.md
   - raw/corrections/2026-09-24-brandon-smith-army-cell.md
+  - raw/corrections/2026-09-24-contact-routing.md
 confidence: high
 contested: true
 canonical_for: public contact routing
@@ -28,6 +29,8 @@ canonical_for: public contact routing
 | General department | main desk | 270-745-4293 | army.rotc@wku.edu |
 | SMS only (no voice) | department text line | 270-721-8539 | — |
 | [[living-learning-communities\|Living Learning Community]] application / waitlist | WKU Housing LLC office | 270-745-3577 | llc@wku.edu |
+
+2026-09-24 staff confirmation (`raw/corrections/2026-09-24-contact-routing.md`): [[brandon-smith]] handles scholarships and enrollment; [[emma-brittenham]] handles the Military Leadership major and scheduling interviews with [[ltc-david-schnaak|Dave, the PMS]]. That matches `raw/wku-rotc/contact.md`. Contracting and [[simultaneous-membership-program|SMP]] stay on Brandon’s row because the contact page and catalog still list them there.
 
 The department text line **270-721-8539** is SMS-only and is not [[brandon-smith]]’s Army cell. Brandon’s cell is **270-745-1765** (text or call); **270-745-6054** is his office phone (calls). Phone labels: `raw/corrections/2026-09-24-brandon-smith-army-cell.md`.
 

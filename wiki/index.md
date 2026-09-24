@@ -64,6 +64,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[human-correction-basic-course]] — 2026-09-24 four-class Basic Course (not two)
 - [[human-correction-jrotc]] — 2026-09-24 JROTC not required to join
 - [[human-correction-brandon-army-cell]] — 2026-09-24 Army cell 270-745-1765 (not 270-745-6054)
+- [[human-correction-contact-routing]] — 2026-09-24 Brandon scholarships/enrollment; Emma major/PMS interviews
 - [[catalog-2026-2027]] — registrar snapshot
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
