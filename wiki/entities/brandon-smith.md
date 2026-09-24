@@ -9,6 +9,7 @@ sources:
   - raw/wku-rotc/scholarships.md
   - raw/catalog-2026-2027/department.md
   - raw/corrections/2026-09-24-basic-course-four-classes.md
+  - raw/corrections/2026-09-24-brandon-smith-army-cell.md
 confidence: high
 contested: false
 canonical_for: recruiting / scholarship / SMP / enrollment contact
@@ -18,8 +19,11 @@ canonical_for: recruiting / scholarship / SMP / enrollment contact
 
 Recruiting Operations Officer for WKU Army ROTC.
 
-**Phone:** 270-745-6054
+**Army cell (text or call):** 270-745-1765
+**Office phone (call):** 270-745-6054
 **Email:** brandon.smith@wku.edu (contact page). Catalog SMP blurb and the scholarships page also use army.rotc@wku.edu.
+
+Phone labels: program-staff statement from Brandon Smith, verbal, via Devin Bell, 2026-09-24 (`raw/corrections/2026-09-24-brandon-smith-army-cell.md`). The Army cell is not 270-745-6054.
 
 ## Route these questions here
 
@@ -28,7 +32,7 @@ Recruiting Operations Officer for WKU Army ROTC.
 - [[simultaneous-membership-program]]
 - Age, medical, or citizenship edge cases that affect contracting
 
-Do not treat this number as the PMS interview line; that is [[emma-brittenham]].
+Do not treat these numbers as the PMS interview line; that is [[emma-brittenham]].
 
 Military Friendly® lines for the ROTC website are not this office’s scholarship terms. Staff asked 2026-09-24 to highlight them as campus support for military students and families; approved wording and cautions are on [[veterans-and-prior-service]].
 
