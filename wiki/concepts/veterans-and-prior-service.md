@@ -55,3 +55,17 @@ The student organization **Military Connected Students of WKU** provides dedicat
 The article does not state a dollar amount for spouse, dependent, or Dual Credit discounts. It does not say how this rate interacts with ROTC scholarships, stipends, or [[simultaneous-membership-program|SMP]].
 
 To learn more, the article points to **wku.edu/veterans**.
+
+## Recruiting / web copy use
+
+ROTC program staff asked on **2026-09-24** (meeting) that these facts be highlighted on the ROTC website as proof of WKU’s support for military students and families. They are Military Student Services facts from WKU News 27 March 2026, not ROTC program awards. This is usage guidance, not a `raw/corrections/` override.
+
+Copy may use these article wordings:
+
+- “designated a Top Ten 2026-2027 Military Friendly® and Military Spouse Friendly School”
+- “the 10th best large public university on the Military Friendly list”
+- “the 6th best large public on the Military Spouse Friendly list”
+- “named a Military Friendly® School for the past 17 years”
+- “discounted tuition rate of $250 per credit hour for all Active Duty, Reserve, and National Guard members at both the undergraduate and graduate levels”
+
+**Caution:** Comparative claims such as “best for military students” or “better than other universities” are not in the source. Stick to the rankings as published and cite the **2026–2027** designation year.

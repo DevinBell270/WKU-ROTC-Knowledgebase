@@ -1,7 +1,7 @@
 ---
 title: Overview — WKU Military Science and Leadership
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-24
 type: overview
 tags: [rotc, wku, synthesis]
 sources:
@@ -29,13 +29,15 @@ ROTC itself is a commissioning pathway, not a degree. Students take Military Sci
 
 Money, recruiting, and contracting route through [[brandon-smith|Mr. Brandon Smith]]. The Military Leadership major and PMS interviews route through [[emma-brittenham|Ms. Emma Brittenham]]. First-year cadets may apply to the Army ROTC [[living-learning-community|Living Learning Community]] through Housing (not cadre); campus LLC rules are on [[living-learning-communities]].
 
+ROTC program staff asked on 2026-09-24 to highlight WKU’s Military Friendly® rankings on the ROTC website as proof of campus support for military students and families. Verifiable copy lines and the caution against unsourced comparisons are on [[veterans-and-prior-service]].
+
 ## What is settled
 
 - Catalog year in force in this wiki: **2026–2027**.
 - Official MIL titles and hours: [[mil-catalog]].
 - Commissioning requires Advanced Camp and a military history course (catalog: HIST 299 or HIST 494 for the major; commissioning language is broader).
 - [[scholarships|Scholarships]] can cover tuition and fees; campus room/meal incentives are additional and GPA-gated on the department site.
-- Veterans and Guard/Reserve members can receive [[veterans-and-prior-service|basic-course credit]] and may use [[simultaneous-membership-program|SMP]].
+- Veterans and Guard/Reserve members can receive [[veterans-and-prior-service|basic-course credit]] and may use [[simultaneous-membership-program|SMP]]. Military Friendly® / Military Spouse Friendly Top Ten figures used in ROTC web copy are MSS facts on that page, not ROTC scholarship terms.
 
 ## What is contested
 

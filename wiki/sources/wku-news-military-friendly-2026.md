@@ -15,9 +15,9 @@ canonical_for: ""
 
 WKU News, Friday 27 March 2026, no byline. `articleid=12981`. **No mention of ROTC, Military Science, or cadets.** Topic is [[kent-johnson|Military Student Services]] and military-connected students.
 
-**Use for:** 2026–2027 Military Friendly® / Military Spouse Friendly Top Ten placements; Kent Johnson as Director of Military Student Services; named MSS programs; the article’s $250-per-credit-hour wording; pointer to wku.edu/veterans.
+**Use for:** 2026–2027 Military Friendly® / Military Spouse Friendly Top Ten placements; Kent Johnson as Director of Military Student Services; named MSS programs; the article’s $250-per-credit-hour wording; pointer to wku.edu/veterans. ROTC staff asked 2026-09-24 to highlight these on the ROTC website; copy rules and cautions are on [[veterans-and-prior-service]].
 
-**Do not use for:** Army ROTC [[scholarships]], stipends, contracting, or commissioning.
+**Do not use for:** Army ROTC [[scholarships]], stipends, contracting, or commissioning; unsourced comparisons (“best for military students,” “better than other universities”).
 
 ## Claims in this capture
 

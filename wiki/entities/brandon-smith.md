@@ -1,7 +1,7 @@
 ---
 title: Brandon Smith
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-24
 type: entity
 tags: [cadre, recruiting]
 sources:
@@ -28,3 +28,5 @@ Recruiting Operations Officer for WKU Army ROTC.
 - Age, medical, or citizenship edge cases that affect contracting
 
 Do not treat this number as the PMS interview line; that is [[emma-brittenham]].
+
+Military Friendly® lines for the ROTC website are not this office’s scholarship terms. Staff asked 2026-09-24 to highlight them as campus support for military students and families; approved wording and cautions are on [[veterans-and-prior-service]].

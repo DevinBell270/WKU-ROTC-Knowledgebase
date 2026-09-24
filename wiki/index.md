@@ -48,7 +48,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[commissioning]] — 2LT gates
 - [[scholarships]] — tuition, stipend, room/meal extras
 - [[simultaneous-membership-program]] — Guard/Reserve + advanced course
-- [[veterans-and-prior-service]] — placement credit and age rules; MSS Military Friendly® Top Ten 2026–2027 (not ROTC)
+- [[veterans-and-prior-service]] — placement credit and age rules; MSS Military Friendly® Top Ten 2026–2027 (staff asked 2026-09-24 to highlight on ROTC site)
 - [[army-nurse-corps]] — nursing + NSTP
 - [[living-learning-communities]] — campus-wide LLC program (apply, cost, one-LLC rule)
 - [[living-learning-community]] — Army ROTC first-year LLC (MIL 101/102; Zacharias)

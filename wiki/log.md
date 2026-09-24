@@ -33,3 +33,9 @@ Filed seven keepers under `raw/social/` (Yates IG carousel, IG wrap, Chaney's IG
 Captured `raw/news/2026-03-27-military-friendly-top-ten.md` (WKU News 2026-03-27, article 12981). Topic is Military Student Services / military-connected students; no ROTC, Military Science, or cadet mention. Compiled [[wku-news-military-friendly-2026]], [[kent-johnson]] (Director of Military Student Services), and a MSS section on [[veterans-and-prior-service]] (Top Ten rankings, named programs, $250/credit-hour wording, Military Connected Students of WKU, wku.edu/veterans). Pointers on [[scholarships]] and [[contact-and-location]] so the $250 rate is not treated as ROTC money. Distinct from ROTC scholarships/stipends. No new [[source-conflicts]] row (Herald Military Times “Best for Vets” is a different ranking).
 
 Judgment call left for the human: **Military Connected Students of WKU** is named on multiple pages but has no standalone page; the article only names it and the advocacy one-liner.
+
+## [2026-09-24] meeting | ROTC staff: highlight Military Friendly® on ROTC site
+
+ROTC program staff, in a meeting on 2026-09-24, asked that the WKU News Military Friendly® rankings be highlighted on the ROTC website as a point of pride: proof that WKU supports military students and families, and that the campus atmosphere for military-connected students compares well with other universities.
+
+Recorded as usage guidance on [[veterans-and-prior-service]] (Recruiting / web copy use) and pointed from [[overview]]. No `raw/corrections/` file: AGENTS.md reserves that layer for operational-fact overrides (PMS, office practice, local policy), not meeting requests about web copy. Copy may use only the article’s published ranking and $250-per-credit-hour wording, with the 2026–2027 designation year. Comparative slogans (“best for military students,” “better than other universities”) are not in the source; the “compares well” line is staff intent, not a sourced claim.
