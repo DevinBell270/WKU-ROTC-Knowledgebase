@@ -1,12 +1,13 @@
 ---
 title: Veterans and prior service
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-24
 type: concept
-tags: [veterans, prior-service]
+tags: [veterans, prior-service, military-student-services]
 sources:
   - raw/wku-rotc/veteran.md
   - raw/catalog-2026-2027/department.md
+  - raw/news/2026-03-27-military-friendly-top-ten.md
 confidence: high
 contested: true
 canonical_for: published prior-service placement
@@ -26,3 +27,31 @@ Prior active-duty enlisted time counts toward officer longevity pay and retireme
 Catalog still says “not reach 30 (may be waived).” Treat as [[source-conflicts|contested]].
 
 VA benefits may stack with an in-college ROTC scholarship. [[simultaneous-membership-program]] is the Guard/Reserve concurrent path.
+
+## Military Student Services (not ROTC)
+
+WKU News (27 March 2026) is about **Military Student Services** and military-connected students. It does not mention ROTC, cadets, or Military Science. The facts below are not Army ROTC [[scholarships]] or the $420 stipend. [[kent-johnson]] is named as Director of WKU Military Student Services. Compiled from [[wku-news-military-friendly-2026]].
+
+### 2026–2027 Military Friendly® designations
+
+After being named a Military Friendly® School for the past 17 years, WKU was designated a Top Ten 2026–2027 Military Friendly® School (10th best large public university) and a Military Spouse Friendly School (6th best large public).
+
+### Programs named in the article
+
+WKU’s Military Student Services office programs named:
+
+- **Textbooks for Troops®:** A flagship initiative that alleviates financial burdens by providing textbook support to eligible students.
+- **Federal Assistance Navigation:** Expert guidance on maximizing federal tuition assistance programs.
+- **Veteran Resource Center:** A centralized hub for community, connection, and academic support.
+
+The student organization **Military Connected Students of WKU** provides dedicated advocacy for all military-affiliated students.
+
+### Tuition wording (WKU News 2026-03-27)
+
+> To further accessibility, WKU offers a discounted tuition rate of $250 per credit hour for all Active Duty, Reserve, and National Guard members at both the undergraduate and graduate levels.
+
+> Support is extended to military spouses and dependents; plus, high school juniors and seniors can access Dual Credit courses at a significant discount.
+
+The article does not state a dollar amount for spouse, dependent, or Dual Credit discounts. It does not say how this rate interacts with ROTC scholarships, stipends, or [[simultaneous-membership-program|SMP]].
+
+To learn more, the article points to **wku.edu/veterans**.

@@ -27,3 +27,9 @@ Filed Facebook captures `raw/social/2026-09-12-911-stair-climb.md` and `raw/soci
 ## [2026-09-21] ingest | Social Scout pack (Yates Memorial Run + training)
 
 Filed seven keepers under `raw/social/` (Yates IG carousel, IG wrap, Chaney's IG, FB wrap page-URL-only, CDT Harlow learning the ropes, Almost FTX, Getting the basics down). Compiled [[wku-rotc-social-2026-09-21]] and [[eric-d-yates]] (caption facts only: 1LT Eric D. Yates; KIA September 17, 2010; 16th annual memorial run September 19, 2026). Updated [[hilltopper-battalion]] and [[index]]. Harlow is name-only (`CDT Harlow`); class/major/hometown not in source. Wilkinson and full Harlow cadet-card bios were not ingested.
+
+## [2026-09-24] ingest | WKU News Military Friendly® Top Ten (Mar 2026)
+
+Captured `raw/news/2026-03-27-military-friendly-top-ten.md` (WKU News 2026-03-27, article 12981). Topic is Military Student Services / military-connected students; no ROTC, Military Science, or cadet mention. Compiled [[wku-news-military-friendly-2026]], [[kent-johnson]] (Director of Military Student Services), and a MSS section on [[veterans-and-prior-service]] (Top Ten rankings, named programs, $250/credit-hour wording, Military Connected Students of WKU, wku.edu/veterans). Pointers on [[scholarships]] and [[contact-and-location]] so the $250 rate is not treated as ROTC money. Distinct from ROTC scholarships/stipends. No new [[source-conflicts]] row (Herald Military Times “Best for Vets” is a different ranking).
+
+Judgment call left for the human: **Military Connected Students of WKU** is named on multiple pages but has no standalone page; the article only names it and the advocacy one-liner.

@@ -1,7 +1,7 @@
 ---
 title: Contact and location
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-24
 type: entity
 tags: [contact, location]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/catalog-2026-2027/department.md
   - raw/wku-rotc/rotc-program.md
   - raw/housing/llc-overview.md
+  - raw/news/2026-03-27-military-friendly-top-ten.md
 confidence: high
 contested: true
 canonical_for: public contact routing
@@ -26,6 +27,8 @@ canonical_for: public contact routing
 | General department | main desk | 270-745-4293 | army.rotc@wku.edu |
 | SMS only (no voice) | department text line | 270-721-8539 | — |
 | [[living-learning-communities\|Living Learning Community]] application / waitlist | WKU Housing LLC office | 270-745-3577 | llc@wku.edu |
+
+Military-connected student support (veterans, spouses, Textbooks for Troops®, not ROTC) is [[kent-johnson|Military Student Services]], not this department. WKU News points to **wku.edu/veterans**. No MSS phone or email is in the ingested captures.
 
 Catalog fax: 270-745-6050.
 
