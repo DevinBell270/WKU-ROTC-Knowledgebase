@@ -6,6 +6,7 @@ type: concept
 tags: [curriculum]
 sources:
   - raw/corrections/2026-09-24-basic-course-four-classes.md
+  - raw/corrections/2026-09-24-jrotc-not-required.md
   - raw/catalog-2026-2027/department.md
   - raw/catalog-2026-2027/mil-courses.md
   - raw/wku-rotc/courses.md
@@ -20,6 +21,10 @@ canonical_for: basic-course structure; no-obligation window length
 The no-obligation window is the **full two-year Basic Course**: four classes, **MIL 101, MIL 102, MIL 201, and MIL 202** (freshman and sophomore years). Students may complete all four before deciding whether to contract. Program-staff statement, 2026-09-24 meeting, relayed by Devin Bell (`raw/corrections/2026-09-24-basic-course-four-classes.md`). Recruiting copy that says students get only two classes before they have to commit is **wrong**.
 
 Catalog 2026–2027 already describes the same structure: a four-semester block, normally freshman and sophomore years; students do not incur a military obligation by participating in the basic course. Emphasis: team and leadership development, hands-on equipment, land navigation, leadership skills.
+
+## Entry
+
+Junior ROTC (JROTC) in high school is **not required** to join Army ROTC at WKU. Program-staff statement, 2026-09-24 meeting, relayed by Devin Bell (`raw/corrections/2026-09-24-jrotc-not-required.md`). No ingested source says JROTC earns placement credit. Published advanced placement is only for prior military service or Guard/Reserve membership.
 
 ## When obligation does begin
 

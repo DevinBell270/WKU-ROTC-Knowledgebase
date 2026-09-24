@@ -43,3 +43,17 @@ Recorded as usage guidance on [[veterans-and-prior-service]] (Recruiting / web c
 ## [2026-09-24] ingest | Staff correction: Basic Course is four MIL classes
 
 Filed `raw/corrections/2026-09-24-basic-course-four-classes.md` (same 2026-09-24 meeting, relayed by Devin Bell). No-obligation window is the full two-year [[basic-course]]: MIL 101, MIL 102, MIL 201, MIL 202 (freshman and sophomore years). Recruiting copy that says students get only two classes before they have to commit is wrong. Catalog 2026–2027 already matches (four-semester basic course; no obligation by participating). Obligation still begins with the written [[advanced-course]] contract, or with a [[scholarships|scholarship]] that requires agreeing to commission (a scholarship student may contract earlier). Compiled [[human-correction-basic-course]], [[basic-course]], [[army-rotc]], [[overview]], [[scholarships]], [[brandon-smith]]. No [[source-conflicts]] row: no ingested page said “two classes.”
+
+## [2026-09-24] ingest | Staff correction: JROTC not required to join
+
+Filed `raw/corrections/2026-09-24-jrotc-not-required.md` (same 2026-09-24 meeting, relayed by Devin Bell). Junior ROTC in high school is not required to join Army ROTC at WKU. Compiled [[human-correction-jrotc]], [[basic-course]], [[army-rotc]]. No source says JROTC earns placement credit; published placement remains prior service, Guard, or Reserve only. No [[source-conflicts]] row.
+
+## [2026-09-24] ingest | Staff correction: Brandon Smith Army cell is 270-745-1765
+
+Filed `raw/corrections/2026-09-24-brandon-smith-army-cell.md` (Brandon Smith, verbal, via Devin Bell, 2026-09-24). Government Army cell is **270-745-1765** (text or call). It is not 270-745-6054. **270-745-6054** is the office phone (calls). Compiled [[human-correction-brandon-army-cell]], [[brandon-smith]], [[contact-and-location]], [[simultaneous-membership-program]]. Department SMS-only line 270-721-8539 is unchanged and is not this cell. Other published numbers were not changed.
+
+Open PR #2’s Prezi lists “Text or Call: 270-745-1765” without saying whose line it is. This correction identifies that number as Brandon’s Army cell; the PR #2 phone conflict is resolved once both PRs merge. Other Prezi content was not imported. No [[source-conflicts]] row on this branch (the Prezi conflict is not recorded here).
+
+## [2026-09-24] ingest | Staff confirmation: contact routing
+
+Filed `raw/corrections/2026-09-24-contact-routing.md` (ROTC meeting, relayed by Devin Bell, 2026-09-24). [[brandon-smith]] handles scholarships and enrollment. Emma handles the Military Leadership major and scheduling interviews with Dave, the PMS. Resolution: Emma = [[emma-brittenham]]; Dave = [[ltc-david-schnaak]]. Matches `raw/wku-rotc/contact.md` (confirmation, not a change). Contracting and [[simultaneous-membership-program|SMP]] remain on Brandon because those source pages still list them. Compiled [[human-correction-contact-routing]], [[brandon-smith]], [[emma-brittenham]], [[ltc-david-schnaak]], [[contact-and-location]]. No new Emma phone; no Schnaak email. No [[source-conflicts]] row.

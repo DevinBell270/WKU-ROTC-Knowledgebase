@@ -27,7 +27,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[eric-d-yates]] — 1LT Eric D. Yates; KIA 2010; 16th annual memorial run 2026-09-19 (caption facts)
 - [[ltc-david-schnaak]] — current PMS and chair (**canonical**)
 - [[ltc-anthony-struzik]] — superseded catalog chair listing
-- [[brandon-smith]] — recruiting / scholarships / SMP
+- [[brandon-smith]] — recruiting / scholarships / SMP; office 270-745-6054, Army cell 270-745-1765
 - [[emma-brittenham]] — major coordinator / PMS interviews
 - [[chase-attwood]] — APMS (Herald 2025; spelling uncertain)
 - [[kent-johnson]] — Director, Military Student Services (not ROTC cadre)
@@ -40,7 +40,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 
 ## Concepts
 
-- [[army-rotc]] — what ROTC is at WKU
+- [[army-rotc]] — what ROTC is at WKU; JROTC not required to join
 - [[basic-course]] — four MIL classes over two years; no obligation unless scholarship
 - [[advanced-course]] — MS III–IV, contracting
 - [[basic-camp]] — MIL 210 / Fort Knox equivalent
@@ -62,6 +62,9 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 
 - [[human-correction-pms]] — 2026-09-08 chair override
 - [[human-correction-basic-course]] — 2026-09-24 four-class Basic Course (not two)
+- [[human-correction-jrotc]] — 2026-09-24 JROTC not required to join
+- [[human-correction-brandon-army-cell]] — 2026-09-24 Army cell 270-745-1765 (not 270-745-6054)
+- [[human-correction-contact-routing]] — 2026-09-24 Brandon scholarships/enrollment; Emma major/PMS interviews
 - [[catalog-2026-2027]] — registrar snapshot
 - [[department-website]] — wku.edu/rotc captures
 - [[wku-news-and-herald]] — May 2026 commissions; Nov 2025 Veterans Day
