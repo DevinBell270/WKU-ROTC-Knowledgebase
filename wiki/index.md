@@ -1,7 +1,7 @@
 ---
 title: Wiki index
 created: 2026-09-08
-updated: 2026-09-28
+updated: 2026-10-05
 type: overview
 tags: [index]
 sources: []
@@ -23,7 +23,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Entities
 
 - [[department-of-military-science-and-leadership]] — CEBS department that hosts ROTC
-- [[hilltopper-battalion]] — cadet unit; Yates run, Ranger Team 9/11 climb, lab/FTX, Big Red game day, nursing voice, Parents Weekend tailgate (Sep 26 2026)
+- [[hilltopper-battalion]] — cadet unit; Yates run, Ranger Team 9/11 climb, lab/FTX, Big Red, Color Guard football, Cadet Orr Almost FTX quote (name only), nursing voice, Parents Weekend tailgate (Sep 26 2026)
 - [[eric-d-yates]] — 1LT Eric D. Yates; KIA 2010; 16th annual memorial run 2026-09-19 (caption facts)
 - [[ltc-david-schnaak]] — current PMS and chair (**canonical**)
 - [[ltc-anthony-struzik]] — superseded catalog chair listing
@@ -70,6 +70,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[wku-rotc-facebook-social-2026-09]] — Sep 2026 FB keepers (9/11 stair climb + IMT lab)
 - [[wku-rotc-social-2026-09-21]] — Sep 2026 IG/FB pack (Yates Memorial Run + training)
 - [[wku-rotc-social-2026-09-28]] — Sep 21–28 2026 IG/FB pack (Big Red, Almost FTX, nursing, Parents Weekend)
+- [[wku-rotc-social-2026-10-05]] — Sep 28–Oct 5 2026 IG/FB pack (Color Guard football, Cadet Orr Almost FTX; FB caption not verbatim)
 
 ## Filed queries
 

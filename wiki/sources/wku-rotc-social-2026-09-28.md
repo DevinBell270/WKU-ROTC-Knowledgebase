@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-09-28
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-05
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -19,7 +19,7 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-09-21 → 2026-09-28 Social Scout window. Captions are verbatim in `raw/social/`. Use for social-proof and named caption facts only. Do not use for degree requirements, contracts, scholarships, NSTP rules, or cadet bios. No individual cadet names appear in these captions.
 
-Prior window: [[wku-rotc-social-2026-09-21]]. Earlier Facebook keepers: [[wku-rotc-facebook-social-2026-09]].
+Prior window: [[wku-rotc-social-2026-09-21]]. Earlier Facebook keepers: [[wku-rotc-facebook-social-2026-09]]. Later keepers (Color Guard football, Cadet Orr Almost FTX): [[wku-rotc-social-2026-10-05]].
 
 ## Big Red push-up board / game day (~2026-09-27)
 
