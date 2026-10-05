@@ -1,7 +1,7 @@
 ---
 title: Hilltopper Battalion
 created: 2026-09-08
-updated: 2026-09-21
+updated: 2026-10-05
 type: entity
 tags: [battalion, cadets]
 sources:
@@ -17,6 +17,14 @@ sources:
   - raw/social/2026-09-17-cdt-harlow-learning-ropes-ig.md
   - raw/social/2026-09-17-almost-ftx-ig.md
   - raw/social/2026-09-18-getting-basics-down-ig.md
+  - raw/social/2026-09-27-big-red-push-up-board-ig.md
+  - raw/social/2026-09-27-big-red-push-up-board-fb.md
+  - raw/social/2026-09-24-almost-ftx-ig.md
+  - raw/social/2026-09-24-nursing-cadets-ig.md
+  - raw/social/2026-09-21-parents-weekend-tailgate-ig.md
+  - raw/social/2026-09-28-color-guard-football-ig.md
+  - raw/social/2026-10-01-almost-ftx-cadet-orr-ig.md
+  - raw/social/2026-10-01-almost-ftx-cadet-orr-fb.md
 confidence: high
 contested: false
 canonical_for: cadet unit name
@@ -38,8 +46,17 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 ## Training (social-proof)
 
 - Individual movement techniques at lab (~September 11, 2026). No named cadets in that post.
-- IG 2026-09-17–18: “Almost FTX”; “Getting the basics down”; named cadet **CDT Harlow** “learning the ropes.” Harlow first name, class, major, and hometown are **not in source**. Do not invent them.
+- IG 2026-09-17–18: “Almost FTX” reel; “Getting the basics down”; named cadet **CDT Harlow** “learning the ropes.” Harlow first name, class, major, and hometown are **not in source**. Do not invent them.
+- IG ~September 24, 2026: field-training carousel (Scout media: Almost FTX / OCP). Caption: “The OPORD said ‘terrain considerations’ and we took it personally.” Live hashtag `#leadfromtherop` as posted. Caption does not name FTX or cadets. Distinct from the 2026-09-17 reel. Pack: [[wku-rotc-social-2026-09-28]].
+- IG ~October 1, 2026: second Almost FTX field-training carousel (Scout media: wooded gravel trail, uniforms/gas mask). Caption names **Cadet Orr**: “Not all who wonder are lost… but these cadets sure are.” Spelling **wonder** as posted. First name, class, major, hometown are **not in source**. Do not invent them. Distinct from the [[wku-rotc-social-2026-09-28|2026-09-24 Almost FTX]] carousel. FB album is cross-platform confirmation only (caption **not** captured verbatim). Pack: [[wku-rotc-social-2026-10-05]].
+
+## Game day, family, and nursing (social-proof)
+
+- **Color Guard at WKU football** (~September 28, 2026, IG): “Precision in every step and pride in every salute. The Hilltopper Battalion Color Guard is honored to represent our nation and WKU.” Scout media: presenting the colors on the WKU football field, stands and band behind. Line breaks not confirmable from public view. No named cadets. A possible FB Color Guard cross-post in this window was not checked (Scout: FB login wall blocked older in-window posts). Pack: [[wku-rotc-social-2026-10-05]].
+- **Big Red / game day** (~September 27, 2026): “Volunteered for the push up board and became the hype squad.” IG: “@wkubigred understood the assignment.” FB: “Big Red understood the assignment.” Scout media: night football, WKU LEADERSHIP push-up board; FB album with short video of cadets in red. No named cadets. Do not blend the IG and FB captions.
+- **Parents weekend tailgate**, Saturday September 26, 2026, 3pm till 6pm (IG invite ~September 21). Caption: join the WKU Hilltopper Battalion; “Scroll to find free parking.” Scout media: south lawn + free parking. No named cadets.
+- **Nursing cadet voice** (IG ~September 24, 2026): “Nursing school: evidence-based practice. ROTC: rub some dirt in it.” / “WKU ROTC Nursing cadets.” No named cadets. Lifestyle copy only. See [[army-nurse-corps]].
 
 ## Source notes
 
-Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson and full Harlow cadet-card bios were not ingested (cancelled).
+Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson and full Harlow cadet-card bios were not ingested (cancelled). Cadet Orr is name-only; no entity page. Oct 2026 Facebook Almost FTX caption was not captured verbatim — do not reconstruct. Sep–Oct 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]].
