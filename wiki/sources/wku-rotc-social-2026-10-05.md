@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-10-05
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-12
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -17,7 +17,7 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-09-28 → 2026-10-05 Social Scout window. Captions in `raw/social/` are verbatim **only** where Scout captured them. Use for social-proof and named caption facts only. Do not use for degree requirements, contracts, scholarships, or cadet bios beyond what the captions say.
 
-Prior window: [[wku-rotc-social-2026-09-28]].
+Prior window: [[wku-rotc-social-2026-09-28]]. Later keepers (Cadet of the Month Nishimwe, game-day volunteers): [[wku-rotc-social-2026-10-12]].
 
 **Scout access caveat:** FB login wall blocked older in-window posts; only the newest Facebook post rendered. Sep 28–30 FB posts (e.g. a Color Guard cross-post) could not be checked. IG captions render as one paragraph publicly; carousel counts estimated from slide dots. Media descriptions are Scout’s, not captions.
 
