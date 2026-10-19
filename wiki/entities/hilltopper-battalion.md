@@ -1,7 +1,7 @@
 ---
 title: Hilltopper Battalion
 created: 2026-09-08
-updated: 2026-10-12
+updated: 2026-10-19
 type: entity
 tags: [battalion, cadets]
 sources:
@@ -28,6 +28,8 @@ sources:
   - raw/social/2026-10-09-cadet-of-the-month-nishimwe-ig.md
   - raw/social/2026-10-08-game-day-volunteers-ig.md
   - raw/social/2026-10-09-game-day-volunteers-fb.md
+  - raw/social/2026-10-15-ranger-team-sneak-peek-ig.md
+  - raw/social/2026-10-15-ranger-team-sneak-peek-fb.md
 confidence: high
 contested: false
 canonical_for: cadet unit name
@@ -44,7 +46,7 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 ## Memorial run and remembrance (social-proof)
 
 - **16th annual Eric Yates memorial run**, September 19, 2026, honoring [[eric-d-yates|1LT Eric D. Yates]] (KIA September 17, 2010). Captions: [[wku-rotc-social-2026-09-21]].
-- **Ranger Team 9/11 stair climb**, September 11, 2026: stadium stairs in remembrance of lives lost on September 11, 2001 (25 years). Lead quote and caption: [[wku-rotc-facebook-social-2026-09]].
+- **Ranger Team 9/11 stair climb**, September 11, 2026: stadium stairs in remembrance of lives lost on September 11, 2001 (25 years). Lead quote and caption: [[wku-rotc-facebook-social-2026-09]]. Later Ranger Team sneak peek: [[wku-rotc-social-2026-10-19]].
 
 ## Training (social-proof)
 
@@ -52,6 +54,7 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 - IG 2026-09-17–18: “Almost FTX” reel; “Getting the basics down”; named cadet **CDT Harlow** “learning the ropes.” Harlow first name, class, major, and hometown are **not in source**. Do not invent them.
 - IG ~September 24, 2026: field-training carousel (Scout media: Almost FTX / OCP). Caption: “The OPORD said ‘terrain considerations’ and we took it personally.” Live hashtag `#leadfromtherop` as posted. Caption does not name FTX or cadets. Distinct from the 2026-09-17 reel. Pack: [[wku-rotc-social-2026-09-28]].
 - IG ~October 1, 2026: second Almost FTX field-training carousel (Scout media: wooded gravel trail, uniforms/gas mask). Caption names **Cadet Orr**: “Not all who wonder are lost… but these cadets sure are.” Spelling **wonder** as posted. First name, class, major, hometown are **not in source**. Do not invent them. Distinct from the [[wku-rotc-social-2026-09-28|2026-09-24 Almost FTX]] carousel. FB album is cross-platform confirmation only (caption **not** captured verbatim). Pack: [[wku-rotc-social-2026-10-05]].
+- **Ranger Team sneak peek** (IG ~October 15, 2026; FB ~October 15–16, shown as “3d”): “A little sneak peak at our hard working ranger team… this is why they call us the Hilltoppers.” Spelling **peak** as posted. IG tags `@7bde_rotc`; FB says “7th Brigade Army ROTC.” Do not blend captions. No named cadets. Do not add roster, competition, or schedule. Related: [[wku-rotc-facebook-social-2026-09|Ranger Team 9/11 stair climb]]. Pack: [[wku-rotc-social-2026-10-19]].
 
 ## Cadet of the Month (social-proof)
 
@@ -67,4 +70,4 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 
 ## Source notes
 
-Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, and Nishimwe cadet-card bios were not ingested (cancelled / name-only). Cadet Orr and Cadet Nishimwe are caption names only; no entity pages. Oct 2026 Facebook Almost FTX caption was not captured verbatim — do not reconstruct. Sep–Oct 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]].
+Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, and Nishimwe cadet-card bios were not ingested (cancelled / name-only). Cadet Orr and Cadet Nishimwe are caption names only; no entity pages. Oct 2026 Facebook Almost FTX caption was not captured verbatim — do not reconstruct. Sep–Oct 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]], [[wku-rotc-social-2026-10-19]].
