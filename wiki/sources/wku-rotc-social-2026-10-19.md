@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-10-19
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-26
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -16,7 +16,7 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-10-12 → 2026-10-19 Social Scout window. One keeper, two platforms. Captions in `raw/social/` are verbatim from the pack. Use for social-proof only. Do not use for degree requirements, contracts, scholarships, Ranger Team roster, competition, or schedule.
 
-Prior window: [[wku-rotc-social-2026-10-12]].
+Prior window: [[wku-rotc-social-2026-10-12]]. Later keepers (Whiskey Company CFT, CST ruck, 6 mile ruck / Halloween PT): [[wku-rotc-social-2026-10-26]].
 
 **Scout access caveat:** IG profile grid redirected to login; new posts reached via “More posts from wkuarmyrotc.” Only the Oct 15 post is in-window. FB public feed readable back to Sep 28 without login. Media descriptions are Scout’s, not captions.
 
