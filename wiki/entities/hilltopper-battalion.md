@@ -1,7 +1,7 @@
 ---
 title: Hilltopper Battalion
 created: 2026-09-08
-updated: 2026-10-26
+updated: 2026-11-02
 type: entity
 tags: [battalion, cadets]
 sources:
@@ -34,6 +34,9 @@ sources:
   - raw/social/2026-10-24-ruck-cst-fb.md
   - raw/social/2026-10-22-six-mile-ruck-ig.md
   - raw/social/2026-10-22-six-mile-ruck-fb.md
+  - raw/social/2026-10-26-survival-skills-ig.md
+  - raw/social/2026-10-29-halloween-pt-ig.md
+  - raw/social/2026-10-31-happy-halloween-reel-ig.md
 confidence: high
 contested: false
 canonical_for: cadet unit name
@@ -61,7 +64,9 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 - **Ranger Team sneak peek** (IG ~October 15, 2026; FB ~October 15–16, shown as “3d”): “A little sneak peak at our hard working ranger team… this is why they call us the Hilltoppers.” Spelling **peak** as posted. IG tags `@7bde_rotc`; FB says “7th Brigade Army ROTC.” Do not blend captions. No named cadets. Do not add roster, competition, or schedule. Related: [[wku-rotc-facebook-social-2026-09|Ranger Team 9/11 stair climb]]. Pack: [[wku-rotc-social-2026-10-19]].
 - **Whiskey Company first Combat Fitness Test** (FB reel ~October 21, 2026): “WKU Whiskey Company competed their first Combat Fitness Test” (**competed** as posted). “Every cadet who participated passed the CFT in under 30 minutes.” Fastest female **CDT E. Critser** “23m and 22s”; fastest male **CDT E. Nishimwe** “18m and 35s.” Name forms and times as posted only. First names beyond **E.**, class, major, hometown: **not in source**. No entity pages. Do not add CFT standards or Whiskey Company facts beyond the caption. Pack: [[wku-rotc-social-2026-10-26]].
 - **Ruck / Cadet Summer Training** (FB reel ~October 24, 2026): caption ties rucks to “Cadet Summer Training and beyond in our careers.” No named cadets; no distance or pack weight in that caption. Pack: [[wku-rotc-social-2026-10-26]].
-- **6 mile ruck** (IG ~October 22, 2026; FB album ~October 22–23): “6 mile ruck down… which means we're closer to our Halloween PT next week” plus costume-contest teaser (prize mentioned; no winner or date beyond “next week”). Hashtag `#boldwarrierbrigade` as posted. FB caption not captured line-for-line (Scout: same as IG, ending “7th Brigade Army ROTC Western Kentucky University”). No named cadets. Pack: [[wku-rotc-social-2026-10-26]].
+- **6 mile ruck** (IG ~October 22, 2026; FB album ~October 22–23): “6 mile ruck down… which means we're closer to our Halloween PT next week” plus costume-contest teaser (prize mentioned; no winner or date beyond “next week”). Hashtag `#boldwarrierbrigade` as posted. FB caption not captured line-for-line (Scout: same as IG, ending “7th Brigade Army ROTC Western Kentucky University”). No named cadets. Follow-up: annual Halloween PT (~October 29); **winner not named**. Pack: [[wku-rotc-social-2026-10-26]]; PT post: [[wku-rotc-social-2026-11-02]].
+- **Survival skills** (IG ~October 26, 2026): “From building hooches to ranger rolling, camo, and field hygiene… the survival skills are loading…” Skills as captioned only. No named cadets. Media not inspected. Pack: [[wku-rotc-social-2026-11-02]].
+- **Annual Halloween PT** (IG ~October 29, 2026): “WKU Hilltopper Battalion conducts our annual Halloween PT!” Also “Almost FTX!!” (caption wording only; do not invent FTX date or location). Thanked those who showed up and “dressed their best.” Closes the Oct 22 costume-contest teaser; **winner not named**. No named cadets. Media not inspected. Pack: [[wku-rotc-social-2026-11-02]].
 
 ## Cadet of the Month (social-proof)
 
@@ -74,7 +79,8 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 - **Big Red / game day** (~September 27, 2026): “Volunteered for the push up board and became the hype squad.” IG: “@wkubigred understood the assignment.” FB: “Big Red understood the assignment.” Scout media: night football, WKU LEADERSHIP push-up board; FB album with short video of cadets in red. No named cadets. Do not blend the IG and FB captions.
 - **Parents weekend tailgate**, Saturday September 26, 2026, 3pm till 6pm (IG invite ~September 21). Caption: join the WKU Hilltopper Battalion; “Scroll to find free parking.” Scout media: south lawn + free parking. No named cadets.
 - **Nursing cadet voice** (IG ~September 24, 2026): “Nursing school: evidence-based practice. ROTC: rub some dirt in it.” / “WKU ROTC Nursing cadets.” No named cadets. Lifestyle copy only. See [[army-nurse-corps]].
+- **Happy Halloween reel** (IG ~October 31, 2026; FB ~October 31): “Happy Halloween from the WKU Hilltopper Battalion! 👻” Thin caption. FB caption truncated at “See more” (visible start matches IG; do not reconstruct). Scout: 195 reactions on FB; video not watched. No named cadets. Pack: [[wku-rotc-social-2026-11-02]].
 
 ## Source notes
 
-Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, Nishimwe, and Critser cadet-card bios were not ingested (cancelled / name-only). Caption name forms only; no entity pages. Oct 2026 Facebook Almost FTX caption and the Oct 22 FB 6-mile-ruck album caption were not captured line-for-line — do not reconstruct. Sep–Oct 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]], [[wku-rotc-social-2026-10-19]], [[wku-rotc-social-2026-10-26]].
+Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, Nishimwe, and Critser cadet-card bios were not ingested (cancelled / name-only). Caption name forms only; no entity pages. Oct 2026 Facebook Almost FTX caption and the Oct 22 FB 6-mile-ruck album caption were not captured line-for-line — do not reconstruct. Sep–Nov 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]], [[wku-rotc-social-2026-10-19]], [[wku-rotc-social-2026-10-26]], [[wku-rotc-social-2026-11-02]].

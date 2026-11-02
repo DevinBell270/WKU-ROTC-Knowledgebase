@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-10-26
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -18,9 +18,9 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-10-19 → 2026-10-26 Social Scout window. Captions in `raw/social/` are verbatim **only** where Scout captured a full caption. Use for social-proof and named caption facts only. Do not use for degree requirements, contracts, scholarships, CFT standards, or cadet bios beyond what the captions say.
 
-Prior window: [[wku-rotc-social-2026-10-19]].
+Prior window: [[wku-rotc-social-2026-10-19]]. Later keepers (survival skills, annual Halloween PT, Happy Halloween reel): [[wku-rotc-social-2026-11-02]]. Halloween PT follow-up posted; costume-contest **winner not named**.
 
-**Scout access caveat:** IG reached via “More posts” on a public post; a very recent post could be missed. FB dates are relative (“N days ago”), so approximate (~). Media descriptions are Scout’s; CFT and CST reels were not watched. Scout skipped a @wku collab post (not ROTC-specific). Scout watch: Halloween PT costume contest next window.
+**Scout access caveat:** IG reached via “More posts” on a public post; a very recent post could be missed. FB dates are relative (“N days ago”), so approximate (~). Media descriptions are Scout’s; CFT and CST reels were not watched. Scout skipped a @wku collab post (not ROTC-specific). Scout watch (Halloween PT costume contest) closed in [[wku-rotc-social-2026-11-02]]; winner not named.
 
 ## Whiskey Company first CFT (FB reel ~2026-10-21)
 
