@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-09-21
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-28
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -31,4 +31,4 @@ The [[hilltopper-battalion|Hilltopper family]] held the **16th annual Eric Yates
 - “Almost FTX” reel (IG 2026-09-17) — pre-FTX / field-training clip in cadet voice.
 - “Getting the basics down” (IG 2026-09-18) — skills/basics training photos.
 
-Related Facebook keepers from the prior window: [[wku-rotc-facebook-social-2026-09]].
+Related Facebook keepers from the prior window: [[wku-rotc-facebook-social-2026-09]]. Later keepers (Big Red, Almost FTX, nursing, Parents Weekend): [[wku-rotc-social-2026-09-28]].
