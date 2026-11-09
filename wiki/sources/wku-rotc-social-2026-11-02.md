@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-11-02
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-09
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -17,7 +17,7 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-10-26 → 2026-11-02 Social Scout window. Captions in `raw/social/` are verbatim **only** where Scout captured a full caption. Use for social-proof only. No named cadets in these posts. Media not inspected (Halloween reel video not watched).
 
-Prior window: [[wku-rotc-social-2026-10-26]].
+Prior window: [[wku-rotc-social-2026-10-26]]. Later keepers (October Cadets of the Month by company, LLAB Ag farm, Almost FTX tensions reel): [[wku-rotc-social-2026-11-09]].
 
 **Scout access caveat:** IG grid login-walled; reached via “More posts,” so a post could be missed. FB feed login-walled after the newest post; FB dates relative (~). No public FB versions found of the survival-skills or Halloween PT posts. Scout skipped an out-of-window IG reel and a previously skipped @wku collab.
 

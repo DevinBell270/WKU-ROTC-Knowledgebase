@@ -1,7 +1,7 @@
 ---
 title: Wiki index
 created: 2026-09-08
-updated: 2026-11-02
+updated: 2026-11-09
 type: overview
 tags: [index]
 sources: []
@@ -23,7 +23,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 ## Entities
 
 - [[department-of-military-science-and-leadership]] — CEBS department that hosts ROTC
-- [[hilltopper-battalion]] — cadet unit; Yates run, Ranger Team, lab/FTX, CFT (name-only), ruck/CST, survival skills, annual Halloween PT (costume winner not named), Big Red, Color Guard, Cadet of the Month Oct 2026, game-day volunteers, nursing voice, Parents Weekend tailgate
+- [[hilltopper-battalion]] — cadet unit; Yates run, Ranger Team, lab/FTX, CFT (name-only), ruck/CST, survival skills, LLAB at Ag farm, annual Halloween PT, October Cadets of the Month (Critser/Najjar/Soumare name-only), Big Red, Color Guard, game-day volunteers, nursing voice, Parents Weekend tailgate
 - [[eric-d-yates]] — 1LT Eric D. Yates; KIA 2010; 16th annual memorial run 2026-09-19 (caption facts)
 - [[ltc-david-schnaak]] — current PMS and chair (**canonical**)
 - [[ltc-anthony-struzik]] — superseded catalog chair listing
@@ -75,6 +75,7 @@ Read this first. Then open the linked pages. Authority rules live in `AGENTS.md`
 - [[wku-rotc-social-2026-10-19]] — Oct 12–19 2026 IG/FB pack (Ranger Team sneak peek; caption spelling peak)
 - [[wku-rotc-social-2026-10-26]] — Oct 19–26 2026 IG/FB pack (Whiskey Company CFT, CST ruck, 6 mile ruck / Halloween PT teaser)
 - [[wku-rotc-social-2026-11-02]] — Oct 26–Nov 2 2026 IG/FB pack (survival skills, annual Halloween PT, Happy Halloween reel)
+- [[wku-rotc-social-2026-11-09]] — Nov 2–9 2026 IG/FB pack (October Cadets of the Month by company, LLAB Ag farm, Almost FTX tensions reel)
 
 ## Filed queries
 
