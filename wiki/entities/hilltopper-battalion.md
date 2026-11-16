@@ -1,7 +1,7 @@
 ---
 title: Hilltopper Battalion
 created: 2026-09-08
-updated: 2026-11-09
+updated: 2026-11-16
 type: entity
 tags: [battalion, cadets]
 sources:
@@ -41,6 +41,8 @@ sources:
   - raw/social/2026-11-07-llab-ag-farm-ig.md
   - raw/social/2026-11-05-almost-ftx-tensions-reel-ig.md
   - raw/social/2026-11-05-almost-ftx-tensions-reel-fb.md
+  - raw/social/2026-11-13-homecoming-parade-fb.md
+  - raw/social/2026-11-12-pool-training-preston-center-fb.md
 confidence: high
 contested: false
 canonical_for: cadet unit name
@@ -73,6 +75,7 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 - **Annual Halloween PT** (IG ~October 29, 2026): “WKU Hilltopper Battalion conducts our annual Halloween PT!” Also “Almost FTX!!” (caption wording only; do not invent FTX date or location). Thanked those who showed up and “dressed their best.” Closes the Oct 22 costume-contest teaser; **winner not named**. No named cadets. Media not inspected. Pack: [[wku-rotc-social-2026-11-02]].
 - **LLAB at WKU Agriculture farm** (IG ~November 7, 2026): “using the @wku_agriculture farm at LLAB”; “FTX gets closer” (caption wording only). No named cadets. Media not inspected. Pack: [[wku-rotc-social-2026-11-09]].
 - **Almost FTX tensions reel** (IG ~November 5, 2026; FB cross-post): pack caption “Almost FTX and tensions are high.” Facebook caption not independently captured — do not reconstruct. Scout media: 20-sec reel; on-screen text “My favorite NCO yelled at me today.” (not inspected). No named cadets. Pack: [[wku-rotc-social-2026-11-09]].
+- **Pool session at Preston Center** (FB ~November 12, 2026): **no caption.** Location tag “at Preston Center” only. Do not invent what the training was. Scout media: indoor pool photos/videos (not inspected); one photo has “Almost FTX” text (Scout-reported image text, not a caption). No named cadets. Pack: [[wku-rotc-social-2026-11-16]].
 
 ## Cadet of the Month (social-proof)
 
@@ -87,7 +90,8 @@ Cadet quotes on the department homepage (May 2024 commissions) treat the battali
 - **Parents weekend tailgate**, Saturday September 26, 2026, 3pm till 6pm (IG invite ~September 21). Caption: join the WKU Hilltopper Battalion; “Scroll to find free parking.” Scout media: south lawn + free parking. No named cadets.
 - **Nursing cadet voice** (IG ~September 24, 2026): “Nursing school: evidence-based practice. ROTC: rub some dirt in it.” / “WKU ROTC Nursing cadets.” No named cadets. Lifestyle copy only. See [[army-nurse-corps]].
 - **Happy Halloween reel** (IG ~October 31, 2026; FB ~October 31): “Happy Halloween from the WKU Hilltopper Battalion! 👻” Thin caption. FB caption truncated at “See more” (visible start matches IG; do not reconstruct). Scout: 195 reactions on FB; video not watched. No named cadets. Pack: [[wku-rotc-social-2026-11-02]].
+- **WKU Homecoming Parade** (FB ~November 13, 2026): “WKU Homecoming Parade “Big Red’s World Tour”” Hashtag `#boldwarrierbrigade` as posted. Scout media: photos and short parade clips (not inspected). Companion video has **no caption**. No named cadets. Pack: [[wku-rotc-social-2026-11-16]].
 
 ## Source notes
 
-Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, Nishimwe, Critser, Najjar, and Soumare cadet-card bios were not ingested (cancelled / name-only). Caption name forms only; no entity pages. Company names Whiskey / Kilo / Uniform only as captioned. Oct 2026 Facebook Almost FTX caption, the Oct 22 FB 6-mile-ruck album caption, and the Nov 5 FB Almost FTX tensions reel caption were not captured line-for-line — do not reconstruct. Sep–Nov 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]], [[wku-rotc-social-2026-10-19]], [[wku-rotc-social-2026-10-26]], [[wku-rotc-social-2026-11-02]], [[wku-rotc-social-2026-11-09]].
+Social captions are recruiting/lifestyle proof, not catalog or contract language. Facebook Yates wrap has no exact permalink (page URL only). Wilkinson, Harlow, Orr, Nishimwe, Critser, Najjar, and Soumare cadet-card bios were not ingested (cancelled / name-only). Caption name forms only; no entity pages. Company names Whiskey / Kilo / Uniform only as captioned. Oct 2026 Facebook Almost FTX caption, the Oct 22 FB 6-mile-ruck album caption, and the Nov 5 FB Almost FTX tensions reel caption were not captured line-for-line — do not reconstruct. Sep–Nov 2026 Social Scout packs: [[wku-rotc-facebook-social-2026-09]], [[wku-rotc-social-2026-09-21]], [[wku-rotc-social-2026-09-28]], [[wku-rotc-social-2026-10-05]], [[wku-rotc-social-2026-10-12]], [[wku-rotc-social-2026-10-19]], [[wku-rotc-social-2026-10-26]], [[wku-rotc-social-2026-11-02]], [[wku-rotc-social-2026-11-09]], [[wku-rotc-social-2026-11-16]]. IG not verifiable in the Nov 9–16 window (login wall; not a confirmed zero).

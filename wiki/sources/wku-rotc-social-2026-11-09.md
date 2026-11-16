@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-11-09
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-16
 type: source-summary
 tags: [source, social, instagram, facebook]
 sources:
@@ -18,7 +18,7 @@ canonical_for: ""
 
 Battalion Instagram (`@wkuarmyrotc`) and Facebook (`WKUROTC`) posts from the 2026-11-02 → 2026-11-09 Social Scout window. Captions in `raw/social/` are verbatim **only** where Scout captured a full caption. Use for social-proof and named caption facts only. Do not use for degree requirements, contracts, cadet bios, or company structure beyond the caption. Media and carousel slide text not inspected/captured.
 
-Prior window: [[wku-rotc-social-2026-11-02]].
+Prior window: [[wku-rotc-social-2026-11-02]]. Later keepers (Homecoming Parade, Preston Center pool): [[wku-rotc-social-2026-11-16]].
 
 **Scout access caveat:** IG grid hit login; reached via public post “More posts.” FB older posts behind login wall. Scout skipped an IG Nov 3 “DONT LOSE YOUR RIFLE” meme (thin).
 
