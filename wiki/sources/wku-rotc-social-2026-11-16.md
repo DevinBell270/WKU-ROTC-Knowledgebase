@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC social 2026-11-16
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-23
 type: source-summary
 tags: [source, social, facebook]
 sources:
@@ -16,7 +16,7 @@ canonical_for: ""
 
 Battalion Facebook (`WKUROTC`) posts from the 2026-11-09 → 2026-11-16 Social Scout window. Captions in `raw/social/` are verbatim **only** where Scout captured a caption. Use for social-proof only. Media not inspected.
 
-Prior window: [[wku-rotc-social-2026-11-09]].
+Prior window: [[wku-rotc-social-2026-11-09]]. Later keepers (Fall FTX Black Hawk + confidence course, Kilo/Whiskey AFT, Norwegian Foot March): [[wku-rotc-social-2026-11-23]].
 
 **Scout access caveat:** IG not verifiable this week due to login wall — **not a confirmed zero**. FB feed beyond Nov 13 blocked by login wall.
 
