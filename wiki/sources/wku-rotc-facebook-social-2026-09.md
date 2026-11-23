@@ -1,7 +1,7 @@
 ---
 title: Source — WKU ROTC Facebook social 2026-09
 created: 2026-09-17
-updated: 2026-09-21
+updated: 2026-09-28
 type: source-summary
 tags: [source, social, facebook]
 sources:
@@ -26,4 +26,4 @@ Caption: on September 11 the [[hilltopper-battalion|WKU Hilltopper Battalion]] R
 
 Caption: Hilltopper Battalion conducting individual movement techniques at lab (“The ground becomes your new best friend…”). No named individual cadets.
 
-Instagram captions were behind a login wall in this window and were not captured here. Later IG keepers (Yates run, training) are in [[wku-rotc-social-2026-09-21]].
+Instagram captions were behind a login wall in this window and were not captured here. Later IG keepers (Yates run, training) are in [[wku-rotc-social-2026-09-21]]. Later keepers (Big Red, Almost FTX, nursing, Parents Weekend) are in [[wku-rotc-social-2026-09-28]].
